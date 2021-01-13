@@ -11,7 +11,7 @@
 #menu {
     float: left;
     width: 100%;
-    margin-left: 22%;
+    margin-left: 35%;
 }
 
 #menu ul {
@@ -33,6 +33,7 @@
 
 img {
     width: 150px;
+    padding: 10px;
     box-shadow: 3px 3px 7px black;
     margin: 1%;
 }
