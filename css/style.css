@@ -9,21 +9,8 @@
 }
 
 #menu {
-    float: left;
-    width: 100%;
-    margin-left: 35%;
-}
-
-#menu ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    background-color: #333333;
-}
-
-#menu li {
-    float: left;
-    width: 250px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .initial {
