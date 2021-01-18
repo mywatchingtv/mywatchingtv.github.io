@@ -1,3 +1,8 @@
+body {
+    background-color: rgb(0, 200, 255);
+}
+
+
 .Header {
     position: fixed;
     width: 100%;
@@ -11,6 +16,7 @@
 #menu {
     margin-left: 10px;
     margin-right: 10px;
+    color:  rgb(0, 200, 255);
 }
 
 .initial {
@@ -19,6 +25,7 @@
 }
 
 img {
+    background-color: white;
     width: 150px;
     padding: 10px;
     box-shadow: 3px 3px 7px black;
