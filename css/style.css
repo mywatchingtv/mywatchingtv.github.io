@@ -4,7 +4,7 @@ body {
 
 
 .Header {
-    position: fixed;
+    position: relative;
     width: 100%;
     z-index: 32;
     padding: 16px;
@@ -21,7 +21,7 @@ body {
 
 .initial {
     position: relative;
-    top: 9rem;
+    top: 10px;
 }
 
 img {
