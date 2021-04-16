@@ -69,7 +69,7 @@ var x = document.createElement("video");
 
 function videoInit() {
     //document.getElementById("my-video").setAttribute("datasetup", "");
-    videojs(document.getElementById("my-video"), {}, function(){});
+    videojs(document.getElementById("my-video"), {}, function(){}); 
     var myPlayer = videojs('my-video');
     myPlayer.ready(function() {
     myPlayer.requestFullscreen();
