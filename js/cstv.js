@@ -1,17 +1,71 @@
+document.getElementById("csat").hide;
+
 var csat = parseInt(document.getElementById("csat").innerHTML);
 window.addEventListener('wheel', function(event){
  if (event.deltaY < 0){
-  console.log('scrolling up');
   csat = csat + 1;
   document.getElementById("csat").innerHTML = csat;
+  channelList();
  }
  else if (event.deltaY > 0) {
-  console.log('scrolling down');
   csat = csat - 1;
   document.getElementById("csat").innerHTML = csat;
+  channelList();
  }
 });
-  
 
-   
+function channelList() {
+if (parseInt(document.getElementById("csat").innerHTML) == 1) {
+    playPlayer("https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8");
+} else if (parseInt(document.getElementById("csat").innerHTML) == 2) {
+    playPlayer("https://stream.y5.hu:443/stream/stream_rtl2/hls1/stream.m3u8");
+} else if (parseInt(document.getElementById("csat").innerHTML) == 3) {
+    playPlayer("https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8");
+};
+};
+
+function playPlayer(newLink) {
+    presentChild();
+    buildPlayer();
+    document.getElementById("vlink").src = newLink;
+    videoInit();
+};   
+
+function presentChild() {
+    var child = document.getElementById("cen").childElementCount;
+    if (child != 0) {
+        var myobj = document.getElementById("vlink");
+        myobj.remove();
+        var myobj2 = document.getElementById("my-video");
+        myobj2.remove(); 
+    };
+}; 
+
+function buildPlayer() {
+var x = document.createElement("video");
+    var y = document.getElementById("cen");
+    x.setAttribute("id", "my-video");
+    y.appendChild(x);
+    document.getElementById("my-video").setAttribute("class", "video-js vjs-default-skin");
+    document.getElementById("my-video").setAttribute("controls", "");
+    document.getElementById("my-video").setAttribute("preload", "auto");
+    document.getElementById("my-video").setAttribute("width", "1000");
+    document.getElementById("my-video").setAttribute("height", "700");
+    document.getElementById("my-video").setAttribute("autoplay", "true");
+    document.getElementById("my-video").setAttribute("AllowfullScreen", "true");
+    var z = document.createElement("SOURCE");
+    z.setAttribute("id", "vlink");
+    x.appendChild(z);
+    document.getElementById("vlink").setAttribute("src", "");
+    document.getElementById("vlink").setAttribute("type", "application/x-mpegurl");
+};  
+
+function videoInit() {
+    //document.getElementById("my-video").setAttribute("datasetup", "");
+    videojs(document.getElementById("my-video"), {}, function(){}); 
+    var myPlayer = videojs('my-video');
+    myPlayer.ready(function() {
+    myPlayer.requestFullscreen();
+    });
+};   
 
