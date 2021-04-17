@@ -6,27 +6,39 @@ function channelNumber() {
         var y = document.getElementById("myDIV");
         x.setAttribute("id", "csat");
         y.appendChild(x);
-        document.getElementById("csat").innerHTML = 1;       
+        if (channelNum == null) {
+            document.getElementById("csat").innerHTML = 1;       
+        } else {
+            document.getElementById("csat").innerHTML = channelNum;
+        };
 };
 
 channelNumber();
 
 
 channelList();
-var csat = parseInt(document.getElementById("csat").innerHTML);
+//var csat = parseInt(document.getElementById("csat").innerHTML);
+channelNum = parseInt(document.getElementById("csat").innerHTML);
 window.addEventListener('wheel', function(event){
- if (event.deltaY < 0){
-  csat = csat + 1;
-  document.getElementById("csat").innerHTML = csat;
-  channelList();
- }
- else if (event.deltaY > 0) {
-  csat = csat - 1;
-  if (csat < 1){
-      csat = 1;};
-      document.getElementById("csat").innerHTML = csat;
-  channelList();
- }
+    if (event.deltaY < 0){
+        //csat = csat + 1;
+        channelNum = channelNum + 1;
+        //document.getElementById("csat").innerHTML = csat;
+        document.getElementById("csat").innerHTML = channelNum;
+        document.getElementById;
+        channelList();
+    } else if (event.deltaY > 0) {
+        //csat = csat - 1;
+        channelNum = channelNum - 1;
+        //if (csat < 1){
+        if (channelNum < 1) {    
+            // csat = 1;};
+            channelNum = 1; 
+        };
+        //document.getElementById("csat").innerHTML = csat;
+        document.getElementById("csat").innerHTML = channelNum;
+        channelList();
+    };
 });
 
 function channelList() {
