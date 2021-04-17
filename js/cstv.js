@@ -31,13 +31,14 @@ window.addEventListener('wheel', function(event){
         //csat = csat - 1;
         channelNum = channelNum - 1;
         //if (csat < 1){
-        if (channelNum < 1) {    
+        if (channelNum > 1) {    
+            //document.getElementById("csat").innerHTML = csat;
+            document.getElementById("csat").innerHTML = channelNum;
+            channelList();
+        } else {
             // csat = 1;};
-            channelNum = 1; 
+            channelNum = 1;
         };
-        //document.getElementById("csat").innerHTML = csat;
-        document.getElementById("csat").innerHTML = channelNum;
-        channelList();
     };
 });
 
@@ -60,11 +61,17 @@ if (parseInt(document.getElementById("csat").innerHTML) == 1) {
 };
 
 function playPlayer(newLink) {
+    //reLoad();
     presentChild();
     buildPlayer();
     document.getElementById("vlink").src = newLink;
     videoInit();
 };   
+
+function reLoad() {
+    var child = document.getElementById("cen").childElementCount;
+    location.reload();
+};
 
 function presentChild() {
     var child = document.getElementById("cen").childElementCount;
@@ -98,8 +105,8 @@ var x = document.createElement("video");
 function videoInit() {
     //document.getElementById("my-video").setAttribute("datasetup", "");
     videojs(document.getElementById("my-video"), {}, function(){}); 
-    var myPlayer = videojs('my-video');
-    myPlayer.ready(function() {
-    myPlayer.requestFullscreen();
-    });
+    //var myPlayer = videojs('my-video');
+    //myPlayer.ready(function() {
+    //myPlayer.requestFullscreen();
+    //});
 };   
