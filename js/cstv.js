@@ -1,5 +1,18 @@
-document.getElementById("csat").hide;
+//document.getElementById("csat").hide;
+var channelNum;
 
+function channelNumber() {
+    var x = document.createElement("p");
+        var y = document.getElementById("myDIV");
+        x.setAttribute("id", "csat");
+        y.appendChild(x);
+        document.getElementById("csat").innerHTML = 1;       
+};
+
+channelNumber();
+
+
+channelList();
 var csat = parseInt(document.getElementById("csat").innerHTML);
 window.addEventListener('wheel', function(event){
  if (event.deltaY < 0){
@@ -9,7 +22,9 @@ window.addEventListener('wheel', function(event){
  }
  else if (event.deltaY > 0) {
   csat = csat - 1;
-  document.getElementById("csat").innerHTML = csat;
+  if (csat < 1){
+      csat = 1;};
+      document.getElementById("csat").innerHTML = csat;
   channelList();
  }
 });
@@ -21,6 +36,14 @@ if (parseInt(document.getElementById("csat").innerHTML) == 1) {
     playPlayer("https://stream.y5.hu:443/stream/stream_rtl2/hls1/stream.m3u8");
 } else if (parseInt(document.getElementById("csat").innerHTML) == 3) {
     playPlayer("https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8");
+} else if (parseInt(document.getElementById("csat").innerHTML) == 4) {
+    playPlayer("https://stream.y5.hu:443/stream/stream_rtlp/stream.m3u8");
+} else if (parseInt(document.getElementById("csat").innerHTML) == 5) {
+    playPlayer("https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8");
+} else if (parseInt(document.getElementById("csat").innerHTML) == 6) {
+    playPlayer("https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8");
+} else if (parseInt(document.getElementById("csat").innerHTML) == 7) {
+    playPlayer("https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8");
 };
 };
 
@@ -50,7 +73,7 @@ var x = document.createElement("video");
     document.getElementById("my-video").setAttribute("controls", "");
     document.getElementById("my-video").setAttribute("preload", "auto");
     document.getElementById("my-video").setAttribute("width", "600");
-    document.getElementById("my-video").setAttribute("height", "350");
+    document.getElementById("my-video").setAttribute("height", "340");
     document.getElementById("my-video").setAttribute("autoplay", "true");
     document.getElementById("my-video").setAttribute("AllowfullScreen", "true");
     var z = document.createElement("SOURCE");
@@ -68,4 +91,3 @@ function videoInit() {
     myPlayer.requestFullscreen();
     });
 };   
-
