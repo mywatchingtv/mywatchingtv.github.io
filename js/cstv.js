@@ -1,22 +1,57 @@
 //document.getElementById("csat").hide;
-var channelNum;
+let channelNum = 2;
+let channelData;
 
-function channelNumber() {
+function read() {
+    fetch('/my.txt')
+    .then(response => response.text())
+    .then(data => {
+  	// Do something with your data
+  	console.log(data);
+    channelData = data;
+    console.log(channelData);
+  });
+};
+
+read();
+
+console.log("I am the first log");
+
+setTimeout(function(){
+    console.log("I am the third log after 5 seconds");
+ 
+
+buildPlayer();
+
+//document.getElementById("vlink").src = "https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8";
+document.getElementById("vlink").src = channelData;
+channelNum = channelData;
+videoInit();
+
+
+
+createChannelNumber();
+numberStepper();
+
+
+
+
+function createChannelNumber() {
     var x = document.createElement("p");
         var y = document.getElementById("myDIV");
         x.setAttribute("id", "csat");
         y.appendChild(x);
         if (channelNum == null) {
-            document.getElementById("csat").innerHTML = 1;       
+            channelNum = 5;
+            document.getElementById("csat").innerHTML = channelNum;       
         } else {
             document.getElementById("csat").innerHTML = channelNum;
         };
 };
 
-channelNumber();
 
 
-channelList();
+function numberStepper() {
 //var csat = parseInt(document.getElementById("csat").innerHTML);
 channelNum = parseInt(document.getElementById("csat").innerHTML);
 window.addEventListener('wheel', function(event){
@@ -25,13 +60,14 @@ window.addEventListener('wheel', function(event){
         channelNum = channelNum + 1;
         //document.getElementById("csat").innerHTML = csat;
         document.getElementById("csat").innerHTML = channelNum;
-        document.getElementById;
+        //document.getElementById;
+        presentChild;
         channelList();
     } else if (event.deltaY > 0) {
         //csat = csat - 1;
         channelNum = channelNum - 1;
         //if (csat < 1){
-        if (channelNum > 1) {    
+        if (channelNum >= 1) {    
             //document.getElementById("csat").innerHTML = csat;
             document.getElementById("csat").innerHTML = channelNum;
             channelList();
@@ -41,6 +77,7 @@ window.addEventListener('wheel', function(event){
         };
     };
 });
+};
 
 function channelList() {
 if (parseInt(document.getElementById("csat").innerHTML) == 1) {
@@ -62,25 +99,30 @@ if (parseInt(document.getElementById("csat").innerHTML) == 1) {
 
 function playPlayer(newLink) {
     //reLoad();
-    presentChild();
-    buildPlayer();
-    document.getElementById("vlink").src = newLink;
-    videoInit();
+    
+    //presentChild();
+    //buildPlayer();
+    //document.getElementById("vlink").src = newLink;
+    //videoInit();
 };   
 
 function reLoad() {
-    var child = document.getElementById("cen").childElementCount;
-    location.reload();
+    var myPlayer = videojs('my-video');
+    myPlayer.reset ();
+    //var child = document.getElementById("cen").childElementCount;
+    //location.reload();
 };
 
 function presentChild() {
     var child = document.getElementById("cen").childElementCount;
-    if (child != 0) {
+    console.log(child);
+    if (child != 0) {  
         var myobj = document.getElementById("vlink");
         myobj.remove();
         var myobj2 = document.getElementById("my-video");
-        myobj2.remove(); 
+        myobj2.remove();   
     };
+   
 }; 
 
 function buildPlayer() {
@@ -109,4 +151,8 @@ function videoInit() {
     //myPlayer.ready(function() {
     //myPlayer.requestFullscreen();
     //});
-};   
+};  
+
+},1000);
+
+console.log("I am the second log");

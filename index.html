@@ -28,7 +28,7 @@
   </header>
   <div class="initial">
     <center>
-      <a id="i1" ><img src="img/kereskedelmi/01_RTLKlub_logo.png" alt=""></a>
+      <a id="i1" onclick="channel1()"><img src="img/kereskedelmi/01_RTLKlub_logo.png" alt=""></a>
       <a id="i2" ><img src="img/kereskedelmi/02_RTLII_logo.png" alt=""></a>
       <a id="i3" ><img src="img/kereskedelmi/03_RTLGold_logo.png" alt=""></a>
       <a id="i4" ><img src="img/kereskedelmi/04_RTL+_logo.png" alt=""></a>
@@ -50,8 +50,35 @@
   </div>
 
 <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
-<script src="/js/playerind.js"></script>
 
+
+<script>
+function channel1() {
+  if (typeof(Storage) !== "undefined") {
+    if (localStorage.setItem) {
+      localStorage.setItem("channelNumber", "1");
+      console.log(localStorage.channelNumber);
+      window.open("/video.html");
+    } else {
+      localStorage.setItem = 1;
+    }
+  }
+};
+
+function channel4() {
+  if (typeof(Storage) !== "undefined") {
+    if (localStorage.setItem) {
+      localStorage.setItem("channelNumber", "4");
+      console.log(localStorage.channelNumber);
+      window.open("/video.html");
+    } else {
+      localStorage.setItem = 1;
+    }
+  }
+};
+
+
+</script>
 </body>
 
 </html>
