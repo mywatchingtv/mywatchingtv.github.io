@@ -1,6 +1,9 @@
 
+
+
 document.getElementById("i1").onclick = function() {
     playPlayer("https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8");
+    document.getElementById("pro").innerHTML=localStorage.channelNumber;
 };
 
 document.getElementById("i2").onclick = function() {
