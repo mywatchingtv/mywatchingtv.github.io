@@ -29,16 +29,16 @@
   <div class="initial">
     <center>
       <a id="i1" onclick="channel1()"><img src="img/kereskedelmi/01_RTLKlub_logo.png" alt=""></a>
-      <a id="i2" ><img src="img/kereskedelmi/02_RTLII_logo.png" alt=""></a>
-      <a id="i3" ><img src="img/kereskedelmi/03_RTLGold_logo.png" alt=""></a>
-      <a id="i4" ><img src="img/kereskedelmi/04_RTL+_logo.png" alt=""></a>
+      <a id="i2" onclick="channel2()"><img src="img/kereskedelmi/02_RTLII_logo.png" alt=""></a>
+      <a id="i3" onclick="channel3()"><img src="img/kereskedelmi/03_RTLGold_logo.png" alt=""></a>
+      <a id="i4" onclick="channel4()"><img src="img/kereskedelmi/04_RTL+_logo.png" alt=""></a>
     </center>
   </div>
   <div class="initial">
     <center>
-      <a id="i5" ><img src="img/kereskedelmi/05_Film+_logo.png" alt=""></a>
-      <a id="i6" ><img src="img/kereskedelmi/06_Cool_logo.png" alt=""></a>
-      <a id="i7" ><img src="img/kereskedelmi/07_Sorozat+_logo.png" alt=""></a>
+      <a id="i5" onclick="channel5()"><img src="img/kereskedelmi/05_Film+_logo.png" alt=""></a>
+      <a id="i6" onclick="channel6()"><img src="img/kereskedelmi/06_Cool_logo.png" alt=""></a>
+      <a id="i7" onclick="channel7()"><img src="img/kereskedelmi/07_Sorozat+_logo.png" alt=""></a>
       <a id="i8" ><img src="img/kereskedelmi/09_TV2_logo.png" alt=""></a>
     </center>
   </div>
@@ -65,10 +65,70 @@ function channel1() {
   }
 };
 
+function channel2() {
+  if (typeof(Storage) !== "undefined") {
+    if (localStorage.setItem) {
+      localStorage.setItem("channelNumber", "2");
+      console.log(localStorage.channelNumber);
+      window.open("/video.html");
+    } else {
+      localStorage.setItem = 1;
+    }
+  }
+};
+
+function channel3() {
+  if (typeof(Storage) !== "undefined") {
+    if (localStorage.setItem) {
+      localStorage.setItem("channelNumber", "3");
+      console.log(localStorage.channelNumber);
+      window.open("/video.html");
+    } else {
+      localStorage.setItem = 1;
+    }
+  }
+};
+
 function channel4() {
   if (typeof(Storage) !== "undefined") {
     if (localStorage.setItem) {
       localStorage.setItem("channelNumber", "4");
+      console.log(localStorage.channelNumber);
+      window.open("/video.html");
+    } else {
+      localStorage.setItem = 1;
+    }
+  }
+};
+
+function channel5() {
+  if (typeof(Storage) !== "undefined") {
+    if (localStorage.setItem) {
+      localStorage.setItem("channelNumber", "5");
+      console.log(localStorage.channelNumber);
+      window.open("/video.html");
+    } else {
+      localStorage.setItem = 1;
+    }
+  }
+};
+
+function channel6() {
+  if (typeof(Storage) !== "undefined") {
+    if (localStorage.setItem) {
+      localStorage.setItem("channelNumber", "6");
+      console.log(localStorage.channelNumber);
+      window.open("/video.html");
+    } else {
+      localStorage.setItem = 1;
+    }
+  }
+};
+
+function channel7() {
+  if (typeof(Storage) !== "undefined") {
+    if (localStorage.setItem) {
+      localStorage.setItem("channelNumber", "7");
       console.log(localStorage.channelNumber);
       window.open("/video.html");
     } else {
