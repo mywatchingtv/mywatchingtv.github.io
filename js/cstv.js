@@ -125,5 +125,6 @@ function numberStepper() {
           }
         }
         channel = localStorage.channelNumber;
+        location.reload();
         channelList();
       };
