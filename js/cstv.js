@@ -1,11 +1,19 @@
 var channel = localStorage.channelNumber;
-var channelNum = 1;
+var stepper = parseInt(localStorage.channelNumber);
+var videoName;
+var channelName;
+
+
 numberStepper();
 channelList();
 
+
 function playPlayer(newLink) {
-    kiir();
+    
+    //kiir();
     presentChild();
+    videoName = ("my-video" + channel);
+    document.getElementById("channelName").innerHTML = channelName;
     buildPlayer();
     document.getElementById("vlink").src = newLink;
     videoInit();
@@ -17,30 +25,39 @@ function kiir() {
 
 function channelList() {
     if (channel == 1) {
+        channelName = "RTL KLUB";
         playPlayer("https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8");
     } else if (channel == 2) {
+        channelName = "RTL2";
         playPlayer("https://stream.y5.hu:443/stream/stream_rtl2/hls1/stream.m3u8");
     } else if (channel == 3) {
+        channelName = "RTL GOLD";
         playPlayer("https://stream.y5.hu:443/stream/stream_rtlgold/stream.m3u8");
     } else if (channel == 4) {
+        channelName = "RTL+";
         playPlayer("https://stream.y5.hu:443/stream/stream_rtlp/stream.m3u8");
     } else if (channel == 5) {
+        channelName = "FILM+";
         playPlayer("https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8");
     } else if (channel == 6) {
+        channelName = "COOL";
         playPlayer("https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8");
     } else if (channel == 7) {
+        channelName = "SOROZAT+";
         playPlayer("https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8");
     } else if (channel == 8) {
-        playPlayer("http://86.122.134.15:4800/play/a041");
+        channelName = "";
+        playPlayer("");
     };
 };    
+
 
 function presentChild() {
     var child = document.getElementById("cen").childElementCount;
     if (child != 0) {
         var myobj = document.getElementById("vlink");
         myobj.remove();
-        var myobj2 = document.getElementById("my-video");
+        var myobj2 = document.getElementById(videoName);
         myobj2.remove(); 
     };
 }; 
@@ -48,15 +65,15 @@ function presentChild() {
 function buildPlayer() {
 var x = document.createElement("video");
     var y = document.getElementById("cen");
-    x.setAttribute("id", "my-video");
+    x.setAttribute("id", videoName);
     y.appendChild(x);
-    document.getElementById("my-video").setAttribute("class", "video-js vjs-default-skin");
-    document.getElementById("my-video").setAttribute("controls", "");
-    document.getElementById("my-video").setAttribute("preload", "auto");
-    document.getElementById("my-video").setAttribute("width", "300");
-    document.getElementById("my-video").setAttribute("height", "150");
-    document.getElementById("my-video").setAttribute("autoplay", "true");
-    document.getElementById("my-video").setAttribute("AllowfullScreen", "true");
+    document.getElementById(videoName).setAttribute("class", "video-js vjs-default-skin");
+    document.getElementById(videoName).setAttribute("controls", "");
+    document.getElementById(videoName).setAttribute("preload", "auto");
+    document.getElementById(videoName).setAttribute("width", "300");
+    document.getElementById(videoName).setAttribute("height", "150");
+    document.getElementById(videoName).setAttribute("autoplay", "true");
+    document.getElementById(videoName).setAttribute("AllowfullScreen", "true");
     var z = document.createElement("SOURCE");
     z.setAttribute("id", "vlink");
     x.appendChild(z);
@@ -66,12 +83,12 @@ var x = document.createElement("video");
 
 function videoInit() {
     //document.getElementById("my-video").setAttribute("datasetup", "");
-    videojs(document.getElementById("my-video"), {}, function(){}); 
-    var myPlayer = videojs('my-video');
+    videojs(document.getElementById(videoName), {}, function(){}); 
+    var myPlayer = videojs(videoName);
     //myPlayer.ready(function() {
     //var myVar = ;
     //setTimeout(function(){
-        myPlayer.requestFullscreen();
+    //    myPlayer.requestFullscreen();
     //    console.log("I am the third log after 5 seconds");
     //},5000);
     //myPlayer.requestFullscreen();
@@ -80,35 +97,33 @@ function videoInit() {
 };
 
 function numberStepper() {
-    //var csat = parseInt(document.getElementById("csat").innerHTML);
-    //channelNum = parseInt(document.getElementById("csat").innerHTML);
     window.addEventListener('wheel', function(event){
         if (event.deltaY < 0){
-            //csat = csat + 1;
-            channelNum = channelNum + 1;
-            console.log(channelNum);
-            //document.getElementById("csat").innerHTML = csat;
-            //document.getElementById("csat").innerHTML = channelNum;
-            //document.getElementById;
-            //presentChild;
-            //channelList();
-        } else if (event.deltaY > 0) {
-            //csat = csat - 1;
-            channelNum = channelNum - 1;
-            console.log(channelNum);
-            //if (csat < 1){
-            if (channelNum >= 1) {    
-                //document.getElementById("csat").innerHTML = csat;
-                //document.getElementById("csat").innerHTML = channelNum;
-                //channelList();
+            stepper = stepper + 1;
+            if (stepper <= 7) {  
             } else {
-                // csat = 1;};
-                channelNum = 1;
+                stepper = 7;
             };
+            channelNumber();
+        } else if (event.deltaY > 0) {
+            stepper = stepper - 1;
+            if (stepper >= 1) {    
+            } else {
+                stepper = 1;
+            };
+            channelNumber();
         };
     });
     };
-    
 
-
-
+    function channelNumber() {
+        if (typeof(Storage) !== "undefined") {
+          if (localStorage.setItem) {
+            localStorage.setItem("channelNumber", stepper);
+          } else {
+            localStorage.setItem = 1;
+          }
+        }
+        channel = localStorage.channelNumber;
+        channelList();
+      };
