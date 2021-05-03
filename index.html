@@ -59,13 +59,14 @@
 <script src="/js/video.js"></script>
 
 <script>
+var can = localStorage.channelNumber;
+
 function channel1() {
   if (typeof(Storage) !== "undefined") {
     if (localStorage.setItem) {
       localStorage.setItem("channelNumber", "1");
       console.log(localStorage.channelNumber);
-      let can = localStorage.channelNumber;
-      document.getElementById("pro").innerHTML = can;
+      document.getElementById("pro").innerHTML = localStorage.channelNumber;;
       window.open("/video.html");
     } else {
       localStorage.setItem = 1;
@@ -78,6 +79,7 @@ function channel2() {
     if (localStorage.setItem) {
       localStorage.setItem("channelNumber", "2");
       console.log(localStorage.channelNumber);
+      document.getElementById("pro").innerHTML = localStorage.channelNumber;;
       window.open("/video.html");
     } else {
       localStorage.setItem = 1;
