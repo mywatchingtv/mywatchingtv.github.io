@@ -68,7 +68,7 @@ function videoInit() {
     //myPlayer.ready(function() {
     //var myVar = ;
     //setTimeout(function(){
-    //    myPlayer.requestFullscreen();
+        myPlayer.requestFullscreen();
     //    console.log("I am the third log after 5 seconds");
     //},5000);
     //myPlayer.requestFullscreen();

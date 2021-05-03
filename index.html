@@ -36,38 +36,24 @@
   </div>
   <div class="initial">
     <center>
-      <a id="i5" ><img src="img/kereskedelmi/05_Film+_logo.png" alt=""></a>
-      <a id="i6" ><img src="img/kereskedelmi/06_Cool_logo.png" alt=""></a>
-      <a id="i7" ><img src="img/kereskedelmi/07_Sorozat+_logo.png" alt=""></a>
+      <a id="i5" onclick="channel5()"><img src="img/kereskedelmi/05_Film+_logo.png" alt=""></a>
+      <a id="i6" onclick="channel6()"><img src="img/kereskedelmi/06_Cool_logo.png" alt=""></a>
+      <a id="i7" onclick="channel7()"><img src="img/kereskedelmi/07_Sorozat+_logo.png" alt=""></a>
       <a id="i8" ><img src="img/kereskedelmi/09_TV2_logo.png" alt=""></a>
     </center>
   </div>
-  <div>
-    <center>
-      <P id="pro"></P>
-    </center>
-  </div>
-  
-  <div class="videoInitial">
-    <center id="cen">
-
-    </center>
-  </div>
-  
+ 
 
 <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
-<script src="/js/video.js"></script>
+
 
 <script>
-var can = localStorage.channelNumber;
 
 function channel1() {
   if (typeof(Storage) !== "undefined") {
     if (localStorage.setItem) {
       localStorage.setItem("channelNumber", "1");
-      console.log(localStorage.channelNumber);
-      document.getElementById("pro").innerHTML = localStorage.channelNumber;;
-      window.open("/video.html");
+      window.open("/player.html");
     } else {
       localStorage.setItem = 1;
     }
@@ -78,9 +64,7 @@ function channel2() {
   if (typeof(Storage) !== "undefined") {
     if (localStorage.setItem) {
       localStorage.setItem("channelNumber", "2");
-      console.log(localStorage.channelNumber);
-      document.getElementById("pro").innerHTML = localStorage.channelNumber;;
-      window.open("/video.html");
+      window.open("/player.html");
     } else {
       localStorage.setItem = 1;
     }
@@ -91,8 +75,7 @@ function channel3() {
   if (typeof(Storage) !== "undefined") {
     if (localStorage.setItem) {
       localStorage.setItem("channelNumber", "3");
-      console.log(localStorage.channelNumber);
-      window.open("/video.html");
+      window.open("/player.html");
     } else {
       localStorage.setItem = 1;
     }
@@ -103,8 +86,7 @@ function channel4() {
   if (typeof(Storage) !== "undefined") {
     if (localStorage.setItem) {
       localStorage.setItem("channelNumber", "4");
-      console.log(localStorage.channelNumber);
-      window.open("/video.html");
+      window.open("/player.html");
     } else {
       localStorage.setItem = 1;
     }
@@ -115,8 +97,7 @@ function channel5() {
   if (typeof(Storage) !== "undefined") {
     if (localStorage.setItem) {
       localStorage.setItem("channelNumber", "5");
-      console.log(localStorage.channelNumber);
-      window.open("/video.html");
+      window.open("/player.html");
     } else {
       localStorage.setItem = 1;
     }
@@ -127,8 +108,7 @@ function channel6() {
   if (typeof(Storage) !== "undefined") {
     if (localStorage.setItem) {
       localStorage.setItem("channelNumber", "6");
-      console.log(localStorage.channelNumber);
-      window.open("/video.html");
+      window.open("/player.html");
     } else {
       localStorage.setItem = 1;
     }
@@ -139,8 +119,7 @@ function channel7() {
   if (typeof(Storage) !== "undefined") {
     if (localStorage.setItem) {
       localStorage.setItem("channelNumber", "7");
-      console.log(localStorage.channelNumber);
-      window.open("/video.html");
+      window.open("/player.html");
     } else {
       localStorage.setItem = 1;
     }
