@@ -1,5 +1,5 @@
-let videoName = "my-video";
-let channelNumber;
+var videoName = "my-video";
+var channelNumber;
 
 document.getElementById("i1").onclick = function() {
     channelNumber = 1;
