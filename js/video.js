@@ -1,4 +1,4 @@
-let channel = localStorage.channelNumber;
+var channel = localStorage.channelNumber;
 
 channelList();
 
@@ -67,12 +67,12 @@ function videoInit() {
     var myPlayer = videojs('my-video');
     //myPlayer.ready(function() {
     //var myVar = ;
-    setTimeout(function(){
-        myPlayer.requestFullscreen();
-        console.log("I am the third log after 5 seconds");
-    },5000);
+    //setTimeout(function(){
+    //    myPlayer.requestFullscreen();
+    //    console.log("I am the third log after 5 seconds");
+    //},5000);
     //myPlayer.requestFullscreen();
-    console.log("0mp");
+    //console.log("0mp");
     //})
 };
 
