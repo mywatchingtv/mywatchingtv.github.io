@@ -4,7 +4,7 @@ numberStepper();
 channelList();
 
 function playPlayer(newLink) {
-    kiir();
+    //kiir();
     presentChild();
     buildPlayer();
     document.getElementById("vlink").src = newLink;

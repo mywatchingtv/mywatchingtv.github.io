@@ -2,7 +2,8 @@ var channel = localStorage.channelNumber;
 var stepper = parseInt(localStorage.channelNumber);
 var videoName;
 var channelName;
-
+var sWidth = screen.width;
+var pWidth = sWidth * 0.6;
 
 numberStepper();
 channelList();
@@ -17,6 +18,9 @@ function playPlayer(newLink) {
     buildPlayer();
     document.getElementById("vlink").src = newLink;
     videoInit();
+    setTimeout(function(){
+        document.getElementById("channelName").style.visibility = "hidden";
+    },5000);
 };   
 
 function kiir() {
@@ -46,8 +50,8 @@ function channelList() {
         channelName = "SOROZAT+";
         playPlayer("https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8");
     } else if (channel == 8) {
-        channelName = "";
-        playPlayer("");
+        channelName = "HBO";
+        playPlayer("http://82.197.212.210:8000/play/a11d/index.m3u8");
     };
 };    
 
@@ -70,8 +74,8 @@ var x = document.createElement("video");
     document.getElementById(videoName).setAttribute("class", "video-js vjs-default-skin");
     document.getElementById(videoName).setAttribute("controls", "");
     document.getElementById(videoName).setAttribute("preload", "auto");
-    document.getElementById(videoName).setAttribute("width", "300");
-    document.getElementById(videoName).setAttribute("height", "150");
+    document.getElementById(videoName).setAttribute("width", pWidth);
+    //document.getElementById(videoName).setAttribute("height", "150");
     document.getElementById(videoName).setAttribute("autoplay", "true");
     document.getElementById(videoName).setAttribute("AllowfullScreen", "true");
     var z = document.createElement("SOURCE");
@@ -83,12 +87,13 @@ var x = document.createElement("video");
 
 function videoInit() {
     //document.getElementById("my-video").setAttribute("datasetup", "");
-    videojs(document.getElementById(videoName), {}, function(){}); 
     var myPlayer = videojs(videoName);
+    videojs(document.getElementById(videoName), {}, function(){}); 
+    
     //myPlayer.ready(function() {
     //var myVar = ;
     //setTimeout(function(){
-    //    myPlayer.requestFullscreen();
+    //    ;
     //    console.log("I am the third log after 5 seconds");
     //},5000);
     //myPlayer.requestFullscreen();
