@@ -3,7 +3,7 @@ var stepper = parseInt(localStorage.channelNumber);
 var videoName;
 var channelName;
 var sWidth = screen.width;
-var pWidth = sWidth * 0.5;
+var pWidth = sWidth * 0.45;
 
 numberStepper();
 channelList();
