@@ -4,6 +4,13 @@ var videoName;
 var channelName;
 var sWidth = screen.width;
 var pWidth = sWidth * 0.45;
+var m = "https://www.tvmustra.hu/tvmusor/TV2";
+//document.URL = "https://www.tvmustra.hu/tvmusor/TV2"
+//var darab = m.document.getElementById("col-6_sor3").childElementCount;
+//var darab = document.URL.getElementsByClassName("col-6_sor3").childElementCount;
+//var darab = m.document.URL;
+//console.log(darab);
+document.getElementById("musor").setAttribute("data", m);
 
 numberStepper();
 channelList();
@@ -67,7 +74,7 @@ function presentChild() {
 }; 
 
 function buildPlayer() {
-var x = document.createElement("video");
+    var x = document.createElement("video");
     var y = document.getElementById("cen");
     x.setAttribute("id", videoName);
     y.appendChild(x);
