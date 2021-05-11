@@ -31,7 +31,7 @@ function channelList() {
     } else if (channel == 7) {
         playPlayer("https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8");
     } else if (channel == 8) {
-        playPlayer("http://86.122.134.15:4800/play/a041");
+        playPlayer("http://play4you.icu/e/910c276218");
     };
 };    
 
@@ -53,8 +53,8 @@ var x = document.createElement("video");
     document.getElementById("my-video").setAttribute("class", "video-js vjs-default-skin");
     document.getElementById("my-video").setAttribute("controls", "");
     document.getElementById("my-video").setAttribute("preload", "auto");
-    document.getElementById("my-video").setAttribute("width", "300");
-    document.getElementById("my-video").setAttribute("height", "150");
+    document.getElementById("my-video").setAttribute("width", "600");
+    document.getElementById("my-video").setAttribute("height", "300");
     document.getElementById("my-video").setAttribute("autoplay", "true");
     document.getElementById("my-video").setAttribute("AllowfullScreen", "true");
     var z = document.createElement("SOURCE");
