@@ -1,10 +1,12 @@
 document.getElementById("s1").onclick = function() {
-    playPlayer("https://streaming.mytvback.com:443/stream/moqWr-2SiAyv0oZWikDS7A/1618531458/channel005/stream.m3u8");
+    playPlayer("https://player.mediaklikk.hu/playernew/player.php?video=mtv4live&amp;osfamily=Windows&amp;osversion=10&amp;browsername=Chrome");
 };
 
 document.getElementById("s2").onclick = function() {
     playPlayer("https://c402-node62-cdn.connectmedia.hu/33001/a64dd430fcda49d998f6d49e501db4d9/60786c74/ch4.m3u8");
 };
+
+
 
 
 function playPlayer(newLink) {
