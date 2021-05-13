@@ -15,10 +15,30 @@
   
   <div class="videoInitial">
     <center id="cen">
-        <iframe src="http://play4you.icu/e/910c276218" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" allow="encrypted-media" allowfullscreen="" ></iframe>  
+      <iframe src="http://play4you.icu/e/910c276218" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" allow="encrypted-media" allowfullscreen="" ></iframe>    
+      
     </center>
   </div>
-   
+  <video
+  id="my-video"
+  class="video-js"
+  controls
+  preload="auto"
+  width="640"
+  height="264"
+  poster="MY_VIDEO_POSTER.jpg"
+  data-setup="{}"
+>
+  <source src="http://86.122.134.15:4600/play/a16w" type="application/x-vlc-plugin" />
+  <source src="MY_VIDEO.webm" type="video/webm" />
+  <p class="vjs-no-js">
+    To view this video please enable JavaScript, and consider upgrading to a
+    web browser that
+    <a href="http://86.122.134.15:4600/play/a16w" target="_blank"
+      >supports HTML5 video</a
+    >
+  </p>
+</video>  
 <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
 
 

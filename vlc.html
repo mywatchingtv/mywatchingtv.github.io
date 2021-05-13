@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<title>VLC Mozilla plugin test page</title>
+<body>
+<embed type="application/x-vlc-plugin"
+       width="640"
+       height="480"
+       id="vlc" />
+
+       <object classid="clsid:9BE31822-FDAD-461B-AD51-BE1D1C159921" width="640" height="480">
+        <param name="autostart" value="true" />
+        <param name="allowfullscreen" value="false" />
+    </object>
+<script type="text/javascript">
+<!--
+var vlc = document.getElementById("vlc");
+vlc.audio.toggleMute();
+//-->
+</script>
+</body>
+</html>
