@@ -18,13 +18,13 @@ http://46.149.191.219:9112/play/a00g
 #EXTINF:-1 tvg-id="RTLGold.hu" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",RTL Gold
 https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
 
-#EXTINF:-1 tvg-id="RTLII.hu" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",RTL II
+#EXTINF:-1 tvg-id="RTL2.hu" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",RTL II
 https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
 
 #EXTINF:-1 tvg-id="RTLPlus.hu" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",RTL+ (360p)
 https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
 
-#EXTINF:-1 tvg-id="SorozatPlus.hu" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",Sorozat+ (360p)
+#EXTINF:-1 tvg-id="Sorozat.hu" tvg-country="HU" tvg-language="" tvg-logo="" group-title="",Sorozat+ (360p)
 https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
 
 #EXTINF:1, tvg-id="LifeTv" tvg-logo="" tvg-name="LifeTv"  group-title="",Life TV
@@ -39,4 +39,14 @@ http://46.149.191.219:9113/play/a004
 #EXTINF:1, tvg-id="Filmbox Basic" tvg-logo="" tvg-name="Filmbox Basic"  group-title="",FilmBox
 http://84.22.55.220:8002/play/a00q
 
+#EXTINF:1, tvg-id="HBO HD" tvg-logo="" tvg-name="HBO HD"  group-title="",HBO HD
+http://82.197.212.210:8000/play/a11d/index.m3u8
 
+#EXTINF:1, tvg-id="HBO2" tvg-logo="" tvg-name="HBO2"  group-title="",HBO2
+http://46.149.191.219:9115/play/a006
+
+#EXTINF:1, tvg-id="HBO3" tvg-logo="" tvg-name="HBO3"  group-title="",HBO3
+http://46.149.191.219:9115/play/a007
+
+#EXTINF:1, tvg-id="Spektrum Home" tvg-logo="" tvg-name="Spektrum Home"  group-title="",Spektrum Home
+http://46.149.191.219:9113/play/a00i
