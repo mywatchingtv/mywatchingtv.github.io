@@ -9,7 +9,7 @@ https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
 #EXTINF:1, tvg-id="Film+ HD" tvg-logo="" tvg-name="Film+ HD"  group-title="",Film+
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 
-#EXTINF:1, tvg-id="TV2 HD" tvg-logo="" tvg-name="TV2 HD"  group-title="",TV2
+#EXTINF:-1, tvg-id="TV2 HD" tvg-logo="" tvg-name="TV2 HD"  group-title="",TV2
 http://152.66.115.226:33390/bysid/202
 
 #EXTINF:1, tvg-id="FEM3" tvg-logo="" tvg-name="FEM3"  group-title="",Fem3
