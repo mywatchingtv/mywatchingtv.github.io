@@ -34,7 +34,7 @@ https://streaming.mytvback.com:443/stream/ufPhLjzGg5ospTncNyQlzA/1641787898/chan
 http://152.66.115.226:33390/bysid/207
 
 #EXTINF:1, tvg-id="Super TV2 HD" tvg-logo="" tvg-name="Super TV2 HD"  group-title="",SuperTV2
-http://46.149.191.219:9113/play/a009
+http://stream2.torba.fun/wDMf8rogr6/mpegts?token=EYJ3050wYN3vjLF6
 
 #EXTINF:1, tvg-id="Prime TV" tvg-logo="" tvg-name="Prime TV"  group-title="",Prime
 http://46.149.191.219:9113/play/a004
