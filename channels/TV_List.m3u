@@ -1,16 +1,16 @@
 ﻿#EXTM3U
 
 #EXTINF:1, tvg-id="RTL Klub HD" tvg-logo="" tvg-name="RTL Klub HD"  group-title="",RTL Klub
-https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
+https://cdn.mediaklikk.org:443/rtl/yITMxETOxITM
+
+#EXTINF:-1, tvg-id="TV2 HD" tvg-logo="" tvg-name="TV2 HD"  group-title="",TV2
+https://cdn.mediaklikk.org:443/tv2/yITMxETOxITM
 
 #EXTINF:1, tvg-id="Cool HD" tvg-logo="" tvg-name="Cool HD"  group-title="",Cool
 https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
 
 #EXTINF:1, tvg-id="Film+ HD" tvg-logo="" tvg-name="Film+ HD"  group-title="",Film+
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
-
-#EXTINF:-1, tvg-id="TV2 HD" tvg-logo="" tvg-name="TV2 HD"  group-title="",TV2
-http://bosstr.net:80/nomoreacble/dsfsdfsfds/39462
 
 #EXTINF:1, tvg-id="FEM3" tvg-logo="" tvg-name="FEM3"  group-title="",Fem3
 https://streaming.mytvback.com:443/stream/T0Qu2f1ax0_foZ8TWhhZIg/1648933898/channel016/stream.m3u8
