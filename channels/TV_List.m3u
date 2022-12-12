@@ -83,3 +83,6 @@ https://icast.connectmedia.hu/5201/live.mp3
 
 #EXTINF:-1 radio="true" ,Petőfi Rádió
 https://icast.connectmedia.hu/4738/mr2.mp3
+
+#EXTINF:-1 radio="true" tvg-logo="https://onlinestream.live/logos/5986.png" ,Danubius Rádió
+http://stream.danubiusradio.hu/danubius_192k
