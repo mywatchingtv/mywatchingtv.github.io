@@ -9,10 +9,10 @@ https://cdn.mediaklikk.org:443/tv2/yITMxETOxITM
 #EXTINF:-1, tvg-id="TLC" tvg-logo="" tvg-name="TLC"  group-title="",TLC
 http://91.237.170.202:11000/play/20195
 
-#EXTINF:-1, tvg-id="Discovery" tvg-logo="" tvg-name="Discovery"  group-title="",Discovery
+#EXTINF:-1, tvg-id="Discovery Channel" tvg-logo="" tvg-name="Discovery Channel"  group-title="",Discovery Channel
 http://91.237.170.202:11000/play/11351
 
-#EXTINF:-1, tvg-id="M2" tvg-logo="" tvg-name="M2"  group-title="",M2
+#EXTINF:-1, tvg-id="M2 / Petőfi HD" tvg-logo="" tvg-name="M2 / Petőfi HD"  group-title="",M2 / Petőfi HD
 https://c202-node62-cdn.connectmedia.hu/110102/0caa650a711ee483ec4a2fb4b83a2ca1/63977af6/index.m3u8
 
 #EXTINF:1, tvg-id="Cool HD" tvg-logo="" tvg-name="Cool HD"  group-title="",Cool
