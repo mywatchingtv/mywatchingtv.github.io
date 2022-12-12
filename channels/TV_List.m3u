@@ -1,24 +1,24 @@
 ﻿#EXTM3U
 
-#EXTINF:1, tvg-id="RTL Klub HD" tvg-logo="" tvg-name="RTL Klub HD"  group-title="",RTL Klub
+#EXTINF:1, tvg-id="RTL Klub HD" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-name="RTL Klub HD"  group-title="",RTL Klub
 https://cdn.mediaklikk.org:443/rtl/yITMxETOxITM
 
-#EXTINF:-1, tvg-id="TV2 HD" tvg-logo="" tvg-name="TV2 HD"  group-title="",TV2
+#EXTINF:-1, tvg-id="TV2 HD" tvg-logo="https://onlinestream.live/logos/6143.png" tvg-name="TV2 HD"  group-title="",TV2
 https://cdn.mediaklikk.org:443/tv2/yITMxETOxITM
 
 #EXTINF:-1, tvg-id="TLC" tvg-logo="https://onlinestream.live/logos/6751.png" tvg-name="TLC"  group-title="",TLC
 http://91.237.170.202:11000/play/20195
 
-#EXTINF:-1, tvg-id="Discovery Channel" tvg-logo="" tvg-name="Discovery Channel"  group-title="",Discovery Channel
+#EXTINF:-1, tvg-id="Discovery Channel" tvg-logo="https://onlinestream.live/logos/6768.png" tvg-name="Discovery Channel"  group-title="",Discovery Channel
 http://91.237.170.202:11000/play/11351
 
-#EXTINF:-1, tvg-id="Animal Planet HD" tvg-logo="" tvg-name="Animal Planet HD"  group-title="",Animal Planet HD
+#EXTINF:-1, tvg-id="Animal Planet HD" tvg-logo="https://onlinestream.live/logos/7055.png" tvg-name="Animal Planet HD"  group-title="",Animal Planet HD
 http://91.237.170.202:11000/play/1354
 
-#EXTINF:-1, tvg-id="Food Network" tvg-logo="" tvg-name="Food Network"  group-title="",Food Network
+#EXTINF:-1, tvg-id="Food Network" tvg-logo="https://onlinestream.live/logos/7570.png" tvg-name="Food Network"  group-title="",Food Network
 http://91.237.170.202:11000/play/20197
 
-#EXTINF:-1, tvg-id="Discovery Science" tvg-logo="" tvg-name="Discovery Science"  group-title="",Discovery Science
+#EXTINF:-1, tvg-id="Discovery Science" tvg-logo="https://onlinestream.live/logos/7326.png" tvg-name="Discovery Science"  group-title="",Discovery Science
 http://91.237.170.202:11000/play/11352
 
 #EXTINF:-1, tvg-id="MotorvisionTV.de" tvg-logo="https://i.imgur.com/aeDaRl4.png" tvg-name="Motorvision TV"  group-title="",Motorvision TV
