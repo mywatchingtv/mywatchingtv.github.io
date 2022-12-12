@@ -6,6 +6,12 @@ https://cdn.mediaklikk.org:443/rtl/yITMxETOxITM
 #EXTINF:-1, tvg-id="TV2 HD" tvg-logo="" tvg-name="TV2 HD"  group-title="",TV2
 https://cdn.mediaklikk.org:443/tv2/yITMxETOxITM
 
+#EXTINF:-1, tvg-id="TLC" tvg-logo="" tvg-name="TLC"  group-title="",TLC
+http://91.237.170.202:11000/play/20195
+
+#EXTINF:-1, tvg-id="Discovery Central Europe HD" tvg-logo="" tvg-name="Discovery Central Europe HD"  group-title="",Discovery Central Europe HD
+http://91.237.170.202:11000/play/11351
+
 #EXTINF:1, tvg-id="Cool HD" tvg-logo="" tvg-name="Cool HD"  group-title="",Cool
 https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
 
