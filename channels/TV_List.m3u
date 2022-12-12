@@ -12,8 +12,14 @@ http://91.237.170.202:11000/play/20195
 #EXTINF:-1, tvg-id="Discovery Channel" tvg-logo="" tvg-name="Discovery Channel"  group-title="",Discovery Channel
 http://91.237.170.202:11000/play/11351
 
-#EXTINF:-1, tvg-id="M2 / Petőfi HD" tvg-logo="" tvg-name="M2 / Petőfi HD"  group-title="",M2 / Petőfi HD
-https://c202-node62-cdn.connectmedia.hu/110102/0caa650a711ee483ec4a2fb4b83a2ca1/63977af6/index.m3u8
+#EXTINF:-1, tvg-id="Animal Planet" tvg-logo="" tvg-name="Animal Planet"  group-title="",Animal Planet
+http://91.237.170.202:11000/play/1354
+
+#EXTINF:-1, tvg-id="Food Network HD EMEA" tvg-logo="" tvg-name="Food Network HD EMEA"  group-title="",Food Network HD EMEA
+http://91.237.170.202:11000/play/20197
+
+#EXTINF:-1, tvg-id="Science Europe HD Czech" tvg-logo="" tvg-name="Science Europe HD Czech"  group-title="",Science Europe HD Czech
+http://91.237.170.202:11000/play/11352
 
 #EXTINF:1, tvg-id="Cool HD" tvg-logo="" tvg-name="Cool HD"  group-title="",Cool
 https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
