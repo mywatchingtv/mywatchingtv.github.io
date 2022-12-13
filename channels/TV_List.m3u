@@ -25,7 +25,7 @@ http://91.237.170.202:11000/play/11352
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
 
 #EXTINF:1, tvg-id="Duna HD" tvg-logo="https://onlinestream.live/logos/5905.png" tvg-name="Duna HD"  group-title="",Duna HD
-https://c401-node61-cdn.connectmedia.hu/110103/840238abe31bb6ea65931fd74ffa3c36/6398ed5f/index.m3u8
+http://152.66.115.226:33391/bysid/102
 
 #EXTINF:1, tvg-id="Cool HD" tvg-logo="" tvg-name="Cool HD"  group-title="",Cool
 https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
