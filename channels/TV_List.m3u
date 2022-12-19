@@ -1,10 +1,10 @@
 ﻿#EXTM3U
 
 #EXTINF:1, tvg-id="RTL Klub HD" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-name="RTL Klub HD"  group-title="HUN",RTL Klub
-https://cdn.mediaklikk.org:443/rtl/yITMxETNxcTM
+https://cdn.mediaklikk.org:443/rtl/yITMxETOxkTM
 
 #EXTINF:-1, tvg-id="TV2 HD" tvg-logo="https://onlinestream.live/logos/6143.png" tvg-name="TV2 HD"  group-title="HUN",TV2
-https://cdn.mediaklikk.org:443/tv2/yITMxETNxcTM
+https://cdn.mediaklikk.org:443/tv2/yITMxEDOxkTM
 
 #EXTINF:-1, tvg-id="TLC" tvg-logo="https://onlinestream.live/logos/6751.png" tvg-name="TLC"  group-title="HUN",TLC
 http://91.237.170.202:11000/play/20195
@@ -26,6 +26,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072
 
 #EXTINF:1, tvg-id="Duna HD" tvg-logo="https://onlinestream.live/logos/5905.png" tvg-name="Duna HD"  group-title=" Nem működik",Duna HD
 http://152.66.115.226:33391/bysid/102
+
+#EXTINF:1, tvg-id="RTL Klub HD" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-name="RTL Klub HD"  group-title=" Nem működik",RTL Klub
+http://152.66.115.226:33390/bysid/203
 
 #EXTINF:1, tvg-id="Cool HD" tvg-logo="" tvg-name="Cool HD"  group-title=" Nem működik",Cool
 https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8
