@@ -1,10 +1,10 @@
 ﻿#EXTM3U
 
 #EXTINF:1, tvg-id="RTL Klub HD" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-name="RTL Klub HD"  group-title="HUN",RTL Klub
-https://cdn.mediaklikk.org:443/rtl/yITMxETOxkTM
+https://cdn.mediaklikk.org:443/rtl/yITMxEDOxAjM
 
 #EXTINF:-1, tvg-id="TV2 HD" tvg-logo="https://onlinestream.live/logos/6143.png" tvg-name="TV2 HD"  group-title="HUN",TV2
-https://cdn.mediaklikk.org:443/tv2/yITMxEDOxkTM
+https://cdn.mediaklikk.org:443/tv2/yITMxEDOxAjM
 
 #EXTINF:-1, tvg-id="TLC" tvg-logo="https://onlinestream.live/logos/6751.png" tvg-name="TLC"  group-title="HUN",TLC
 http://91.237.170.202:11000/play/20195
