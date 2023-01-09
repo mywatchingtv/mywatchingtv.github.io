@@ -27,7 +27,7 @@ function channelList() {
     } else if (channel == 5) {
         playPlayer("https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8");
     } else if (channel == 6) {
-        playPlayer("https://stream.y5.hu:443/stream/stream_cool/hls1/stream.m3u8");
+        playPlayer("https://hls2eu.sweet.tv/stream/3vs6nn9e64cpwz3zfq9unirgkcf8kyd9imthjr4aj3bbhf3x8t4ks9gwrmqizm2cisb9z72gs8ktiyhgwindd8qyxga9ej7bz3yk3w9nfww99i3v4aeg5pzvhc9chumudjhnqv2=.m3u8");
     } else if (channel == 7) {
         playPlayer("https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8");
     } else if (channel == 8) {
