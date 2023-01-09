@@ -37,6 +37,7 @@ https://hls35.sweet.tv/stream/mxtv4egq53eb2hksf2qea5t9tbcmkzh9d7hagv3383tgewapkx
 https://hls35.sweet.tv/stream/mxtv4egq53eb2hksf2qea5t9tbcmkzh9d7hagv3383tgewapkxbps9ust73bivs3gav8juyr83edftfqagmkqmkitpyutqvqs4bp2kpmtxhukh5fmjinemc5gyvi3rg45jf8vbmu.m3u8
 
 #EXTINF:1, tvg-id="Film+ HD" tvg-logo="" tvg-name="Film+ HD"  group-title=" Nem működik",Film+
+#KODIPROP:inputstreamaddon=inputstream.hls
 https://hls17.sweet.tv/stream/fjpwsynpq2tfh4w4dyazy339hcxfbesrazp4tdz6pkw3qywr24ptcd979wun2mc6xpi43z6mnmvtc3zeihmzi6ph9rqcqbp3cckwejrdn395idwaeqg98qgwrt2a9ejcdjqrw6yy.m3u8
 
 #EXTINF:1, tvg-id="FEM3" tvg-logo="" tvg-name="FEM3"  group-title=" Nem működik",Fem3
