@@ -30,16 +30,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072
 #EXTINF:1, tvg-id="Duna HD" tvg-logo="https://onlinestream.live/logos/5905.png" tvg-name="Duna HD"  group-title=" Nem működik",Duna HD
 http://152.66.115.226:33391/bysid/102
 
-#EXTINF:1, tvg-id="RTL Klub HD" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-name="RTL Klub HD"  group-title=" Nem működik",RTL Klub
-http://152.66.115.226:33390/bysid/203
+#EXTINF:1, tvg-id="film4" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-name="RTL Klub HD"  group-title=" Nem működik",RTL Klub
+https://hls35.sweet.tv/stream/mxtv4egq53eb2hksf2qea5t9tbcmkzh9d7hagv3383tgewapkxbps9ust73bivs3gav8juyr83edftfqagmkqmkitpyutqvqs4bp2kpmtxhukh5fmjinemc5gyvi3rg45jf8vbmu.m3u8
 
-#EXTINF:1, tvg-id="Cool HD" tvg-logo="" tvg-name="Cool HD"  group-title="HUN",Cool
+#EXTINF:1, tvg-id="Cool HD" tvg-logo="" tvg-name="Cool HD"  group-title=" Nem működik",Cool
 https://hls2eu.sweet.tv/stream/tpda5kmausknbywunqpc636rtn4uvbshbjhctpj2a44qxxpibg3dsyzaq9bfy6679kg8rkg33w64zi8mgzdhig9ciw7bqjkgnrw995ua5jryqhz9n7hwcefycwqmq6qdpswsu52=.m3u8
 
-#EXTINF:1, tvg-id="Film+ HD" tvg-logo="" tvg-name="Film+ HD"  group-title="HUN",Film+
+#EXTINF:1, tvg-id="Film+ HD" tvg-logo="" tvg-name="Film+ HD"  group-title=" Nem működik",Film+
 https://hls39.sweet.tv/stream/5wi9pcetzxz9ajszjm22hf6xxz39qy4hj8cp8gzdzsefischyx9idk8qxsduhkgbmdc9rkcb79rqcppp73a73srbpedbk3qtt7xazdt24cpugx2cz8995muuggq3mfqaw76ydjai.m3u8
 
-#EXTINF:1, tvg-id="FEM3" tvg-logo="" tvg-name="FEM3"  group-title="HUN",Fem3
+#EXTINF:1, tvg-id="FEM3" tvg-logo="" tvg-name="FEM3"  group-title=" Nem működik",Fem3
 https://hls23.sweet.tv/stream/ecy9vuxzwkfp6akj9hnbtuc7dg7cxtwswt5ki359ntq33tckpfp73m3248c75u3dggccrrdn4rh4sz349qsv7hnzfusqusumb344kr46cw77dmy43h4fqy94qeipdp53bvybz8fp.m3u8
 
 #EXTINF:-1 tvg-id="RTLGold.hu" tvg-country="DE" tvg-language="" tvg-logo="" group-title=" Nem működik",RTL Gold
