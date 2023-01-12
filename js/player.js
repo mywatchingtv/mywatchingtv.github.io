@@ -17,7 +17,7 @@ function kiir() {
 
 function channelList() {
     if (channel == 1) {
-        playPlayer("https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8");
+        playPlayer("https://onlinestream.live/film/videoplayer/6150-1");
     } else if (channel == 2) {
         playPlayer("https://stream.y5.hu:443/stream/stream_rtl2/hls1/stream.m3u8");
     } else if (channel == 3) {
