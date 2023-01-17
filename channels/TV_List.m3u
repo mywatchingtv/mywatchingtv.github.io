@@ -72,9 +72,6 @@ https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u
 #EXTINF:-1, type="stream" channelId="-1" tvg-id="MotorvisionTV.de" tvg-logo="https://i.imgur.com/aeDaRl4.png" tvg-name="Motorvision TV"  group-title="HUN",Motorvision TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
 
-#EXTINF:1, type="stream" channelId="-1" tvg-id="Duna HD" tvg-logo="https://onlinestream.live/logos/5905.png" tvg-name="Duna HD"  group-title=" Nem működik",Duna HD
-http://152.66.115.226:33391/bysid/102
-
 #EXTINF:1, type="stream" channelId="-1" tvg-id="film4" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-name="film4"  group-title=" Nem működik",Film4
 https://hls35.sweet.tv/stream/mxtv4egq53eb2hksf2qea5t9tbcmkzh9d7hagv3383tgewapkxbps9ust73bivs3gav8juyr83edftfqagmkqmkitpyutqvqs4bp2kpmtxhukh5fmjinemc5gyvi3rg45jf8vbmu.m3u8
 
