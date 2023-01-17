@@ -39,7 +39,7 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1152&amp;amp;ext=.m3u8
 #EXTINF:0 type="stream" channelId="4729" tvg-id="Sorozat +" tvg-logo="https://onlinestream.live/logos/6149.png" tvg-country="HU" group-title="HUN", Sorozat +
 https://redirect.onlinestream.live/swredir.m3u8?id=876&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4705" tvg-id="Viasat3" tvg-logo="https://onlinestream.live/logos/5911.png" tvg-country="HU" group-title="HUN", Viasat3
+#EXTINF:0 type="stream" channelId="4705" tvg-id="Viasat3 HD" tvg-logo="https://onlinestream.live/logos/5911.png" tvg-country="HU" group-title="HUN", Viasat3 HD
 https://redirect.onlinestream.live/swredir.m3u8?id=1142&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="4709" tvg-id="Viasat6" tvg-logo="https://onlinestream.live/logos/6236.png" tvg-country="HU" group-title="HUN", Viasat6
