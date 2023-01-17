@@ -21,7 +21,7 @@ https://redirect.onlinestream.live/swredir.m3u8?id=870&amp;amp;ext=.m3u8
 #EXTINF:0 type="stream" channelId="1605" tvg-id="Film+" tvg-country="HU" group-title="HUN", Film+ HD
 https://redirect.onlinestream.live/swredir.m3u8?id=1138&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4728" tvg-id="Mozi+ HD" tvg-country="HU" group-title="HUN", Mozi+ HD
+#EXTINF:0 type="stream" channelId="4728" tvg-id="Mozi+ HD" tvg-logo="https://onlinestream.live/logos/6152.png" tvg-country="HU" group-title="HUN", Mozi+ HD
 https://redirect.onlinestream.live/swredir.m3u8?id=1171&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="4711" tvg-id="FEM3" tvg-country="HU" group-title="HUN", FEM3
