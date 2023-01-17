@@ -63,6 +63,9 @@ http://91.237.170.202:11000/play/11352
 #EXTINF:0 type="stream" channelId="50" tvg-id="Animal Planet HD" tvg-logo="https://onlinestream.live/logos/7055.png" tvg-country="HU" group-title="HUN", Animal Planet HD
 http://91.237.170.202:11000/play/1354
 
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Duna HD" tvg-logo="https://onlinestream.live/logos/5905.png" tvg-country="HU" group-title="HUN", Duna HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-id="Szolnok TV" tvg-logo="https://onlinestream.live/logos/4788.png" tvg-country="HU" group-title="HUN", Szolnok TV
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 
