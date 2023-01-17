@@ -3,7 +3,7 @@
 #EXTINF:0 type="stream" tvg-id="RTL Klub HD" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-name="RTL Klub HD"  group-title="HUN",RTL
 https://redirect.onlinestream.live/swredir.m3u8?id=882&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" tvg-id="RTL Kettő" tvg-logo="https://onlinestream.live/logos/6142.png" tvg-country="HU" group-title="HUN", RTL Kettő
+#EXTINF:0 type="stream" tvg-id="RTL Kettő" tvg-logo="https://onlinestream.live/logos/6142.png" tvg-country="HU" group-title="HUN", RTL 2
 https://redirect.onlinestream.live/swredir.m3u8?id=883&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" tvg-id="RTL Három" tvg-logo="https://onlinestream.live/logos/6147.png" tvg-country="HU" group-title="HUN", RTL Három
@@ -12,7 +12,7 @@ https://redirect.onlinestream.live/swredir.m3u8?id=880&amp;amp;ext=.m3u8
 #EXTINF:0 type="stream" tvg-id="RTL Gold" tvg-country="HU" group-title="HUN", RTL Gold
 https://redirect.onlinestream.live/swredir.m3u8?id=1131&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" tvg-id="TV2" tvg-country="HU" group-title="HUN", TV2
+#EXTINF:0 type="stream" tvg-id="TV2" tvg-country="HU" group-title="HUN", TV2 HD
 https://redirect.onlinestream.live/swredir.m3u8?id=1141&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" tvg-id="COOL" tvg-country="HU" group-title="HUN", COOL
@@ -21,16 +21,16 @@ https://redirect.onlinestream.live/swredir.m3u8?id=870&amp;amp;ext=.m3u8
 #EXTINF:0 type="stream"  tvg-id="Film+" tvg-country="HU" group-title="HUN", Film+
 https://redirect.onlinestream.live/swredir.m3u8?id=1138&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" tvg-id="Mozi+" tvg-country="HU" group-title="HUN", Mozi+
+#EXTINF:0 type="stream" tvg-id="Mozi+" tvg-country="HU" group-title="HUN", Mozi+ HD
 https://redirect.onlinestream.live/swredir.m3u8?id=1171&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" tvg-id="FEM3" tvg-country="HU" group-title="HUN", FEM3
 https://redirect.onlinestream.live/swredir.m3u8?id=1180&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" tvg-id="Prime" tvg-country="HU" group-title="HUN", Prime
+#EXTINF:0 type="stream" tvg-id="Prime" tvg-country="HU" group-title="HUN", Prime TV
 https://redirect.onlinestream.live/swredir.m3u8?id=1172&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream"  -id="Discovery Channel" audio-track="6" tvg-country="HU" group-title="HUN", Discovery Channel
+#EXTINF:0 type="stream" tvg-id="Discovery Channel" audio-track="6" tvg-country="HU" group-title="HUN", Discovery Channel
 https://redirect.onlinestream.live/swredir.m3u8?id=1149&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" tvg-id="Spektrum Home" tvg-country="HU" group-title="HUN", Spektrum Home
@@ -48,7 +48,7 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1168&amp;amp;ext=.m3u8
 #EXTINF:0 type="stream" tvg-id="max4" tvg-logo="https://onlinestream.live/logos/8714.png" tvg-country="HU" group-title="HUN", max4
 https://cdn.mediaklikk.org:443/max4/0MjMxADMxUTM
 
-#EXTINF:0 type="stream" tvg-id="TLC" tvg-country="HU" group-title="HUN", TLC
+#EXTINF:0 type="stream" tvg-id="TLC" audio-track="3" tvg-country="HU" group-title="HUN", TLC
 http://91.237.170.202:11000/play/20195
 
 #EXTINF:0 type="stream" tvg-id="Food Network" tvg-country="HU" group-title="HUN", Food Network
