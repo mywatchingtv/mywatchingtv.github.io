@@ -15,7 +15,7 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1131&amp;amp;ext=.m3u8
 #EXTINF:0 type="stream" channelId="4704" tvg-id="TV2" tvg-country="HU" group-title="HUN", TV2 HD
 https://redirect.onlinestream.live/swredir.m3u8?id=1141&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="3949" tvg-id="COOL" tvg-country="HU" group-title="HUN", COOL TV
+#EXTINF:0 type="stream" channelId="3949" tvg-id="COOL" tvg-country="HU" group-title="HUN", COOL HD
 https://redirect.onlinestream.live/swredir.m3u8?id=870&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="1605" tvg-id="Film+" tvg-country="HU" group-title="HUN", Film+ HD
