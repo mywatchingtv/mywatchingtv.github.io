@@ -3,64 +3,64 @@
 #EXTINF:0 type="stream" tvg-id="RTL Klub HD" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-name="RTL Klub HD"  group-title="HUN",RTL
 https://redirect.onlinestream.live/swredir.m3u8?id=882&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="-1"  tvg-id="RTL Kettő" tvg-logo="https://onlinestream.live/logos/6142.png" tvg-country="HU" group-title="HUN", RTL Kettő
+#EXTINF:0 type="stream" tvg-id="RTL Kettő" tvg-logo="https://onlinestream.live/logos/6142.png" tvg-country="HU" group-title="HUN", RTL Kettő
 https://redirect.onlinestream.live/swredir.m3u8?id=883&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://onlinestream.live/logos/6147.png" tvg-country="HU" group-title="HUN", RTL Három
+#EXTINF:0 type="stream" tvg-id="RTL Három" tvg-logo="https://onlinestream.live/logos/6147.png" tvg-country="HU" group-title="HUN", RTL Három
 https://redirect.onlinestream.live/swredir.m3u8?id=880&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4358" tvg-country="HU" group-title="HUN", RTL Gold
+#EXTINF:0 type="stream" tvg-id="RTL Gold" tvg-country="HU" group-title="HUN", RTL Gold
 https://redirect.onlinestream.live/swredir.m3u8?id=1131&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4704" tvg-country="HU" group-title="HUN", TV2
+#EXTINF:0 type="stream" tvg-id="TV2" tvg-country="HU" group-title="HUN", TV2
 https://redirect.onlinestream.live/swredir.m3u8?id=1141&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="3949" tvg-country="HU" group-title="HUN", COOL
+#EXTINF:0 type="stream" tvg-id="COOL" tvg-country="HU" group-title="HUN", COOL
 https://redirect.onlinestream.live/swredir.m3u8?id=870&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="1605" tvg-country="HU" group-title="HUN", Film+
+#EXTINF:0 type="stream"  tvg-id="Film+" tvg-country="HU" group-title="HUN", Film+
 https://redirect.onlinestream.live/swredir.m3u8?id=1138&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4728" tvg-country="HU" group-title="HUN", Mozi+
+#EXTINF:0 type="stream" tvg-id="Mozi+" tvg-country="HU" group-title="HUN", Mozi+
 https://redirect.onlinestream.live/swredir.m3u8?id=1171&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4711" tvg-country="HU" group-title="HUN", FEM3
+#EXTINF:0 type="stream" tvg-id="FEM3" tvg-country="HU" group-title="HUN", FEM3
 https://redirect.onlinestream.live/swredir.m3u8?id=1180&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4710" tvg-country="HU" group-title="HUN", Prime
+#EXTINF:0 type="stream" tvg-id="Prime" tvg-country="HU" group-title="HUN", Prime
 https://redirect.onlinestream.live/swredir.m3u8?id=1172&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="57" audio-track="6" tvg-country="HU" group-title="HUN", Discovery Channel
+#EXTINF:0 type="stream"  -id="Discovery Channel" audio-track="6" tvg-country="HU" group-title="HUN", Discovery Channel
 https://redirect.onlinestream.live/swredir.m3u8?id=1149&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="2935" tvg-country="HU" group-title="HUN", Spektrum Home
+#EXTINF:0 type="stream" tvg-id="Spektrum Home" tvg-country="HU" group-title="HUN", Spektrum Home
 https://redirect.onlinestream.live/swredir.m3u8?id=1152&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4729" tvg-country="HU" group-title="HUN", Sorozat+
+#EXTINF:0 type="stream" tvg-id="Sorozat+" tvg-country="HU" group-title="HUN", Sorozat+
 https://redirect.onlinestream.live/swredir.m3u8?id=876&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4705" tvg-country="HU" group-title="HUN", Viasat 3
+#EXTINF:0 type="stream" tvg-id="Viasat 3" tvg-country="HU" group-title="HUN", Viasat 3
 https://redirect.onlinestream.live/swredir.m3u8?id=1142&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4709" tvg-country="HU" group-title="HUN", Viasat 6
+#EXTINF:0 type="stream" tvg-id="Viasat 6" tvg-country="HU" group-title="HUN", Viasat 6
 https://redirect.onlinestream.live/swredir.m3u8?id=1168&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://onlinestream.live/logos/8714.png" tvg-country="HU" group-title="HUN", max4
+#EXTINF:0 type="stream" tvg-id="max4" tvg-logo="https://onlinestream.live/logos/8714.png" tvg-country="HU" group-title="HUN", max4
 https://cdn.mediaklikk.org:443/max4/0MjMxADMxUTM
 
-#EXTINF:0 type="stream" channelId="67" tvg-country="HU" group-title="HUN", TLC
+#EXTINF:0 type="stream" tvg-id="TLC" tvg-country="HU" group-title="HUN", TLC
 http://91.237.170.202:11000/play/20195
 
-#EXTINF:0 type="stream" channelId="1720" tvg-country="HU" group-title="HUN", Food Network
+#EXTINF:0 type="stream" tvg-id="Food Network" tvg-country="HU" group-title="HUN", Food Network
 http://91.237.170.202:11000/play/20197
 
-#EXTINF:0 type="stream" channelId="1508" tvg-country="HU" group-title="HUN", Discovery Science HD
+#EXTINF:0 type="stream" tvg-id="Discovery Science HD" tvg-country="HU" group-title="HUN", Discovery Science HD
 http://91.237.170.202:11000/play/11352
 
-#EXTINF:0 type="stream" channelId="50" tvg-country="HU" group-title="HUN", Animal Planet
+#EXTINF:0 type="stream" tvg-id="Animal Planet" tvg-country="HU" group-title="HUN", Animal Planet
 http://91.237.170.202:11000/play/1354
 
-#EXTINF:0 type="stream" channelId="-1" tvg-country="HU" group-title="HUN", Szolnok TV
+#EXTINF:0 type="stream" tvg-id="Szolnok TV" tvg-country="HU" group-title="HUN", Szolnok TV
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 
 #EXTINF:-1, type="stream" tvg-id="MotorvisionTV.de" tvg-logo="https://i.imgur.com/aeDaRl4.png" tvg-name="Motorvision TV"  group-title="HUN",Motorvision TV
