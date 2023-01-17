@@ -54,10 +54,10 @@ http://91.237.170.202:11000/play/20195
 #EXTINF:0 type="stream" channelId="1244" tvg-id="Food Network" tvg-logo="https://onlinestream.live/logos/7570.png" tvg-country="HU" group-title="HUN", Food Network
 http://91.237.170.202:11000/play/20197
 
-#EXTINF:0 type="stream" channelId="1508" tvg-id="Discovery Science HD" tvg-logo="https://onlinestream.live/logos/7326.png" tvg-country="HU" group-title="HUN", Discovery Science HD
+#EXTINF:0 type="stream" channelId="1508" tvg-id="Discovery Science" tvg-logo="https://onlinestream.live/logos/7326.png" tvg-country="HU" group-title="HUN", Discovery Science
 http://91.237.170.202:11000/play/11352
 
-#EXTINF:0 type="stream" channelId="50" tvg-id="Animal Planet" tvg-logo="https://onlinestream.live/logos/7055.png" tvg-country="HU" group-title="HUN", Animal Planet
+#EXTINF:0 type="stream" channelId="50" tvg-id="Animal Planet HD" tvg-logo="https://onlinestream.live/logos/7055.png" tvg-country="HU" group-title="HUN", Animal Planet HD
 http://91.237.170.202:11000/play/1354
 
 #EXTINF:0 type="stream" channelId="-1" tvg-id="Szolnok TV" tvg-logo="https://onlinestream.live/logos/4788.png" tvg-country="HU" group-title="HUN", Szolnok TV
