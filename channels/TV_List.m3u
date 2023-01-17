@@ -21,7 +21,7 @@ https://redirect.onlinestream.live/swredir.m3u8?id=870&amp;amp;ext=.m3u8
 #EXTINF:0 type="stream" channelId="1605" tvg-id="Film+" tvg-country="HU" group-title="HUN", Film+ HD
 https://redirect.onlinestream.live/swredir.m3u8?id=1138&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4728" tvg-id="Mozi+" tvg-country="HU" group-title="HUN", Mozi+ HD
+#EXTINF:0 type="stream" channelId="4728" tvg-id="Mozi+ HD" tvg-country="HU" group-title="HUN", Mozi+ HD
 https://redirect.onlinestream.live/swredir.m3u8?id=1171&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="4711" tvg-id="FEM3" tvg-country="HU" group-title="HUN", FEM3
@@ -30,7 +30,7 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1180&amp;amp;ext=.m3u8
 #EXTINF:0 type="stream" channelId="4710"tvg-id="Prime" tvg-country="HU" group-title="HUN", Prime TV
 https://redirect.onlinestream.live/swredir.m3u8?id=1172&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="57" tvg-id="Discovery Channel" audio-track="6" tvg-country="HU" group-title="HUN", Discovery Channel
+#EXTINF:0 type="stream" channelId="57" tvg-id="Discovery Channel" tvg-logo="https://onlinestream.live/logos/6768.png" audio-track="6" tvg-country="HU" group-title="HUN", Discovery Channel
 https://redirect.onlinestream.live/swredir.m3u8?id=1149&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="2935" tvg-id="Spektrum Home" tvg-country="HU" group-title="HUN", Spektrum Home
