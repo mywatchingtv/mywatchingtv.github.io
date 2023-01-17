@@ -51,6 +51,9 @@ https://cdn.mediaklikk.org:443/max4/0MjMxATMxcTM
 #EXTINF:0 type="stream" channelId="67" tvg-id="TLC" tvg-logo="https://onlinestream.live/logos/6751.png" audio-track="3" tvg-country="HU" group-title="HUN", TLC
 http://91.237.170.202:11000/play/20195
 
+#EXTINF:0 type="stream" channelId="2936" tvg-id="TV Paprika" tvg-logo="https://onlinestream.live/logos/6748.png" tvg-country="HU" group-title="HUN", TV Paprika
+https://redirect.onlinestream.live/swredir.m3u8?id=1112&amp;amp;ext=.m3u8
+
 #EXTINF:0 type="stream" channelId="1244" tvg-id="Food Network" tvg-logo="https://onlinestream.live/logos/7570.png" tvg-country="HU" group-title="HUN", Food Network
 http://91.237.170.202:11000/play/20197
 
