@@ -9,58 +9,58 @@ https://redirect.onlinestream.live/swredir.m3u8?id=883&amp;amp;ext=.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-id="RTL Három" tvg-logo="https://onlinestream.live/logos/6147.png" tvg-country="HU" group-title="HUN", RTL Három
 https://redirect.onlinestream.live/swredir.m3u8?id=880&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4358" tvg-id="RTL Gold" tvg-country="HU" group-title="HUN", RTL Gold
+#EXTINF:0 type="stream" channelId="4358" tvg-id="RTL Gold" tvg-logo="https://onlinestream.live/logos/6148.png" tvg-country="HU" group-title="HUN", RTL Gold
 https://redirect.onlinestream.live/swredir.m3u8?id=1131&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4704" tvg-id="TV2" tvg-country="HU" group-title="HUN", TV2 HD
+#EXTINF:0 type="stream" channelId="4704" tvg-id="TV2" tvg-logo="https://onlinestream.live/logos/6143.png" tvg-country="HU" group-title="HUN", TV2 HD
 https://redirect.onlinestream.live/swredir.m3u8?id=1141&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="3949" tvg-id="COOL" tvg-country="HU" group-title="HUN", COOL HD
+#EXTINF:0 type="stream" channelId="3949" tvg-id="COOL HD" tvg-logo="https://onlinestream.live/logos/6146.png" tvg-country="HU" group-title="HUN", COOL HD
 https://redirect.onlinestream.live/swredir.m3u8?id=870&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="1605" tvg-id="Film+" tvg-country="HU" group-title="HUN", Film+ HD
+#EXTINF:0 type="stream" channelId="1605" tvg-id="Film+ HD" tvg-logo="https://onlinestream.live/logos/6150.png" tvg-country="HU" group-title="HUN", Film+ HD
 https://redirect.onlinestream.live/swredir.m3u8?id=1138&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="4728" tvg-id="Mozi+ HD" tvg-logo="https://onlinestream.live/logos/6152.png" tvg-country="HU" group-title="HUN", Mozi+ HD
 https://redirect.onlinestream.live/swredir.m3u8?id=1171&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4711" tvg-id="FEM3" tvg-country="HU" group-title="HUN", FEM3
+#EXTINF:0 type="stream" channelId="4711" tvg-id="FEM3" tvg-logo="https://onlinestream.live/logos/6455.png" tvg-country="HU" group-title="HUN", FEM3
 https://redirect.onlinestream.live/swredir.m3u8?id=1180&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4710"tvg-id="Prime" tvg-country="HU" group-title="HUN", Prime TV
+#EXTINF:0 type="stream" channelId="4710"tvg-id="Prime" tvg-logo="https://onlinestream.live/logos/6704.png" tvg-country="HU" group-title="HUN", Prime TV
 https://redirect.onlinestream.live/swredir.m3u8?id=1172&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="57" tvg-id="Discovery Channel" tvg-logo="https://onlinestream.live/logos/6768.png" audio-track="6" tvg-country="HU" group-title="HUN", Discovery Channel
 https://redirect.onlinestream.live/swredir.m3u8?id=1149&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="2935" tvg-id="Spektrum Home" tvg-country="HU" group-title="HUN", Spektrum Home
+#EXTINF:0 type="stream" channelId="2935" tvg-id="Spektrum Home" tvg-logo="https://onlinestream.live/logos/6589.png" tvg-country="HU" group-title="HUN", Spektrum Home
 https://redirect.onlinestream.live/swredir.m3u8?id=1152&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4729" tvg-id="Sorozat+" tvg-country="HU" group-title="HUN", Sorozat+
+#EXTINF:0 type="stream" channelId="4729" tvg-id="Sorozat+" tvg-logo="https://onlinestream.live/logos/6149.png" tvg-country="HU" group-title="HUN", Sorozat+
 https://redirect.onlinestream.live/swredir.m3u8?id=876&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4705" tvg-id="Viasat 3" tvg-country="HU" group-title="HUN", Viasat 3
+#EXTINF:0 type="stream" channelId="4705" tvg-id="Viasat 3" tvg-logo="https://onlinestream.live/logos/5911.png" tvg-country="HU" group-title="HUN", Viasat 3
 https://redirect.onlinestream.live/swredir.m3u8?id=1142&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4709" tvg-id="Viasat 6" tvg-country="HU" group-title="HUN", Viasat 6
+#EXTINF:0 type="stream" channelId="4709" tvg-id="Viasat 6" tvg-logo="https://onlinestream.live/logos/6236.png" tvg-country="HU" group-title="HUN", Viasat 6
 https://redirect.onlinestream.live/swredir.m3u8?id=1168&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-id="max4" tvg-logo="https://onlinestream.live/logos/8714.png" tvg-country="HU" group-title="HUN", max4
 https://cdn.mediaklikk.org:443/max4/0MjMxATMxcTM
 
-#EXTINF:0 type="stream" channelId="67" tvg-id="TLC" audio-track="3" tvg-country="HU" group-title="HUN", TLC
+#EXTINF:0 type="stream" channelId="67" tvg-id="TLC" tvg-logo="https://onlinestream.live/logos/6751.png" audio-track="3" tvg-country="HU" group-title="HUN", TLC
 http://91.237.170.202:11000/play/20195
 
-#EXTINF:0 type="stream" channelId="1244" tvg-id="Food Network" tvg-country="HU" group-title="HUN", Food Network
+#EXTINF:0 type="stream" channelId="1244" tvg-id="Food Network" tvg-logo="https://onlinestream.live/logos/7570.png" tvg-country="HU" group-title="HUN", Food Network
 http://91.237.170.202:11000/play/20197
 
-#EXTINF:0 type="stream" channelId="1508" tvg-id="Discovery Science HD" tvg-country="HU" group-title="HUN", Discovery Science HD
+#EXTINF:0 type="stream" channelId="1508" tvg-id="Discovery Science HD" tvg-logo="https://onlinestream.live/logos/7326.png" tvg-country="HU" group-title="HUN", Discovery Science HD
 http://91.237.170.202:11000/play/11352
 
-#EXTINF:0 type="stream" channelId="50" tvg-id="Animal Planet" tvg-country="HU" group-title="HUN", Animal Planet
+#EXTINF:0 type="stream" channelId="50" tvg-id="Animal Planet" tvg-logo="https://onlinestream.live/logos/7055.png" tvg-country="HU" group-title="HUN", Animal Planet
 http://91.237.170.202:11000/play/1354
 
-#EXTINF:0 type="stream" channelId="-1" tvg-id="Szolnok TV" tvg-country="HU" group-title="HUN", Szolnok TV
+#EXTINF:0 type="stream" channelId="-1" tvg-id="Szolnok TV" tvg-logo="https://onlinestream.live/logos/4788.png" tvg-country="HU" group-title="HUN", Szolnok TV
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 
 #EXTINF:-1, type="stream" channelId="-1" tvg-id="MotorvisionTV.de" tvg-logo="https://i.imgur.com/aeDaRl4.png" tvg-name="Motorvision TV"  group-title="HUN",Motorvision TV
