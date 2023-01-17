@@ -46,7 +46,7 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1142&amp;amp;ext=.m3u8
 https://redirect.onlinestream.live/swredir.m3u8?id=1168&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-id="max4" tvg-logo="https://onlinestream.live/logos/8714.png" tvg-country="HU" group-title="HUN", max4
-https://cdn.mediaklikk.org:443/max4/0MjMxADMxUTM
+https://cdn.mediaklikk.org:443/max4/0MjMxATMxcTM
 
 #EXTINF:0 type="stream" channelId="67" tvg-id="TLC" audio-track="3" tvg-country="HU" group-title="HUN", TLC
 http://91.237.170.202:11000/play/20195
