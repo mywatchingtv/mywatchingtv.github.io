@@ -33,6 +33,12 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1172&amp;amp;ext=.m3u8
 #EXTINF:0 type="stream" channelId="57" tvg-id="Discovery Channel" tvg-logo="https://onlinestream.live/logos/6768.png" audio-track="6" tvg-country="HU" group-title="HUN", Discovery Channel
 https://redirect.onlinestream.live/swredir.m3u8?id=1149&amp;amp;ext=.m3u8
 
+#EXTINF:0 type="stream" channelId="56" tvg-id="National Geographic" tvg-logo="https://onlinestream.live/logos/5937.png" audio-track="6" tvg-country="HU" group-title="HUN", National Geographic Wild
+https://redirect.onlinestream.live/swredir.m3u8?id=1179&amp;amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="56" tvg-id="National Geographic Wild" tvg-logo="https://onlinestream.live/logos/5937.png" audio-track="6" tvg-country="HU" group-title="HUN", National Geographic
+https://redirect.onlinestream.live/swredir.m3u8?id=895&amp;amp;ext=.m3u8
+
 #EXTINF:0 type="stream" channelId="2935" tvg-id="Spektrum Home" tvg-logo="https://onlinestream.live/logos/6589.png" tvg-country="HU" group-title="HUN", Spektrum Home
 https://redirect.onlinestream.live/swredir.m3u8?id=1152&amp;amp;ext=.m3u8
 
