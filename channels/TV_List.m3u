@@ -24,6 +24,9 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1138&amp;amp;ext=.m3u8
 #EXTINF:0 type="stream" channelId="4728" tvg-id="Mozi+ HD" tvg-logo="https://onlinestream.live/logos/6152.png" tvg-country="HU" group-title="HUN", Mozi+ HD
 https://redirect.onlinestream.live/swredir.m3u8?id=1171&amp;amp;ext=.m3u8
 
+#EXTINF:0 type="stream" channelId="1573" tvg-id="AXN HD" tvg-logo="https://onlinestream.live/logos/6235.png" tvg-country="HU" group-title="HUN", AXN HD
+https://redirect.onlinestream.live/swredir.m3u8?id=1147&amp;amp;ext=.m3u8
+
 #EXTINF:0 type="stream" channelId="4711" tvg-id="FEM3" tvg-logo="https://onlinestream.live/logos/6455.png" tvg-country="HU" group-title="HUN", FEM3
 https://redirect.onlinestream.live/swredir.m3u8?id=1180&amp;amp;ext=.m3u8
 
