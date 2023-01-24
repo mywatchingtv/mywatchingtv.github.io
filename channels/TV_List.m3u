@@ -3,10 +3,10 @@
 #EXTINF:0 type="stream" channelId="4493" tvg-id="RTL Klub HD" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-name="RTL Klub HD"  group-title="HUN",RTL
 https://redirect.onlinestream.live/swredir.m3u8?id=882&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4717" tvg-id="RTL 2 HD" tvg-logo="https://onlinestream.live/logos/6142.png" tvg-country="HU" group-title="HUN", RTL Kettő
+#EXTINF:0 type="stream" channelId="4717" tvg-id="RTL 2 HD" tvg-logo="https://onlinestream.live/logos/6142.png" tvg-country="HU" group-title="HUN", RTL 2 HD
 https://redirect.onlinestream.live/swredir.m3u8?id=883&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4494" tvg-id="RTL+" tvg-logo="https://onlinestream.live/logos/6147.png" tvg-country="HU" group-title="HUN", RTL Három
+#EXTINF:0 type="stream" channelId="4494" tvg-id="RTL+" tvg-logo="https://onlinestream.live/logos/6147.png" tvg-country="HU" group-title="HUN", RTL+
 https://redirect.onlinestream.live/swredir.m3u8?id=880&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="4358" tvg-id="RTL Gold" tvg-logo="https://onlinestream.live/logos/6148.png" tvg-country="HU" group-title="HUN", RTL Gold
