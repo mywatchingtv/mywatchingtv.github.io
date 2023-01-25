@@ -42,7 +42,7 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1179&amp;amp;ext=.m3u8
 #EXTINF:0 type="stream" channelId="164" tvg-id="National Geographic Wild" tvg-logo="https://banner2.cleanpng.com/20180620/ivv/kisspng-national-geographic-society-nat-geo-wild-televisio-5b29e18d336f49.8263967215294713732107.jpg" audio-track="6" tvg-country="HU" group-title="HUN", National Geographic Wild
 https://redirect.onlinestream.live/swredir.m3u8?id=895&amp;amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="" tvg-id="Spektrum HD" tvg-logo="https://onlinestream.live/logos/6749.png" tvg-country="HU" group-title="HUN", Spektrum HD
+#EXTINF:0 type="stream" channelId="3024" tvg-id="Spektrum HD" tvg-logo="https://onlinestream.live/logos/6749.png" tvg-country="HU" group-title="HUN", Spektrum HD
 https://redirect.onlinestream.live/swredir.m3u8?id=1151&amp;amp;ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="2935" tvg-id="Spektrum Home" tvg-logo="https://onlinestream.live/logos/6589.png" tvg-country="HU" group-title="HUN", Spektrum Home
