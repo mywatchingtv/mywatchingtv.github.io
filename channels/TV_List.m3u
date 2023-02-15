@@ -34,7 +34,7 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1147&amp;amp;ext=.m3u8
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1180&ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="4710"tvg-id="Prime" tvg-logo="https://onlinestream.live/logos/6704.png" tvg-country="HU" group-title="HUN", Prime TV
-https://redirect.onlinestream.live/swredir.m3u8?id=1172&amp;amp;ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1172&ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="57" tvg-id="Discovery Channel" tvg-logo="https://onlinestream.live/logos/6768.png" audio-track="6" tvg-country="HU" group-title="HUN", Discovery Channel
 https://redirect.onlinestream.live/swredir.m3u8?id=1149&amp;amp;ext=.m3u8
