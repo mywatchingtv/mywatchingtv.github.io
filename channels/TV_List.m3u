@@ -67,19 +67,22 @@ https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd50
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1106&ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="67" tvg-id="TLC" tvg-logo="https://onlinestream.live/logos/6751.png" audio-track="3" tvg-country="HU" group-title="HUN", TLC
-http://91.237.170.202:11000/play/20195
+https://hls25.sweet.tv/stream/c458k48qq9qqkjrfvk64mirnu3c8qyq8idwfrwzam3iwbmbgu7y2yhypjuva7fuc6sicpqnnqa9s35yqv7agdcz93w23esy3ss4gqwckt4icqgz2q7inkq6fv5idwah2tys9x44hh8yg9mvw.m3u8
 
 #EXTINF:0 type="stream" channelId="2936" tvg-id="TV Paprika" tvg-logo="https://onlinestream.live/logos/6748.png" tvg-country="HU" group-title="HUN", TV Paprika
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1112&ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="1244" tvg-id="Food Network" tvg-logo="https://onlinestream.live/logos/7570.png" tvg-country="HU" group-title="HUN", Food Network
-http://91.237.170.202:11000/play/20197
+https://hls25.sweet.tv/stream/mff96s5th8hjrh67kd93zu79ewjx9curvvk7buvhy3ewn6dhvnvmgr749uzazehi6w556gnmxsgvynccyec8ubzeh9xhqqs96hbw3264nkgqd2rcv3mpdb56smxzcnekwr5m8zve4mbjn3binw======.m3u8
 
 #EXTINF:0 type="stream" channelId="1508" tvg-id="Discovery Science" tvg-logo="https://onlinestream.live/logos/7326.png" tvg-country="HU" group-title="HUN", Discovery Science
 http://91.237.170.202:11000/play/11352
 
 #EXTINF:0 type="stream" channelId="50" tvg-id="Animal Planet HD" tvg-logo="https://onlinestream.live/logos/7055.png" tvg-country="HU" group-title="HUN", Animal Planet HD
 http://91.237.170.202:11000/play/1354
+
+#EXTINF:0 type="stream" channelId="" tvg-id="TV2 Kids" tvg-logo="https://onlinestream.live/logos/6707.png" tvg-country="HU" group-title="HUN", TV2 Kids
+https://hls25.sweet.tv/stream/amkbdai5j8n3j6xgk2y2iy38h4nnj62fytn94tuwtivyvway5vxp53vuaswkk6qhmnjj5tusgss4i3rjtm29py9swwsm4n6vbzuhudmwiaqrf5feb8e84dnmye6q4sk7csrmh4vdisgvrnhyp6======.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-id="Szolnok TV" tvg-logo="https://onlinestream.live/logos/4788.png" tvg-country="HU" group-title="HUN", Szolnok TV
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
