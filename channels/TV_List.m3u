@@ -3,7 +3,7 @@
 #EXTINF:0 type="stream" channelId="4493" tvg-id="RTL Klub HD" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-name="RTL Klub HD"  group-title="HUN",RTL
 http://play4you.icu/75884aff-bd1e-4c26-9bf2-783df9376b5a
 
-#EXTINF:0 type="stream" channelId="4717" tvg-id="RTL 2 HD" tvg-logo="https://onlinestream.live/logos/6142.png" tvg-country="HU" group-title="HUN", RTL 2 HD
+#EXTINF:0 type="stream" channelId="4717" tvg-id="RTL 2 HD" tvg-logo="https://onlinestream.live/logos/6142.png" tvg-country="HU" group-title=" Nem működik", RTL 2 HD
 https://redirect.onlinestream.live/swredir.m3u8?s=552acd1e29b717b8763bd6949f11194c&id=883&ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="4494" tvg-id="RTL+" tvg-logo="https://onlinestream.live/logos/6147.png" tvg-country="HU" group-title=" Nem működik", RTL+
@@ -12,13 +12,13 @@ https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd50
 #EXTINF:0 type="stream" channelId="4358" tvg-id="RTL Gold" tvg-logo="https://onlinestream.live/logos/6148.png" tvg-country="HU" group-title=" Nem működik", RTL Gold
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1131&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4704" tvg-id="TV2" tvg-logo="https://onlinestream.live/logos/6143.png" tvg-country="HU" group-title=" Nem működik", TV2 HD
+#EXTINF:0 type="stream" channelId="4704" tvg-id="TV2" tvg-logo="https://onlinestream.live/logos/6143.png" tvg-country="HU" group-title="HUN", TV2 HD
 http://play4you.icu/5d366e1d-403a-499a-8c6d-73a57d4b6388
 
 #EXTINF:0 type="stream" channelId="3949" tvg-id="COOL HD" tvg-logo="https://onlinestream.live/logos/6146.png" tvg-country="HU" group-title=" Nem működik", COOL HD
 https://redirect.onlinestream.live/swredir.m3u8?s=552acd1e29b717b8763bd6949f11194c&id=870&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="1605" tvg-id="Film+ HD" tvg-logo="https://onlinestream.live/logos/6150.png" tvg-country="HU" group-title=" Nem működik", Film+ HD
+#EXTINF:0 type="stream" channelId="1605" tvg-id="Film+ HD" tvg-logo="https://onlinestream.live/logos/6150.png" tvg-country="HU" group-title="HUN", Film+ HD
 http://play4you.icu/f9368cf8-9492-4836-b77c-7d8f073d8b8c
 
 #EXTINF:0 type="stream" channelId="4728" tvg-id="Mozi+ HD" tvg-logo="https://onlinestream.live/logos/6152.png" tvg-country="HU" group-title=" Nem működik", Mozi+ HD
