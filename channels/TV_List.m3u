@@ -16,7 +16,7 @@ https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd50
 https://cdn.mediaklikk.org:443/tv2/0MjMxIDMxQTM
 
 #EXTINF:0 type="stream" channelId="3949" tvg-id="COOL HD" tvg-logo="https://onlinestream.live/logos/6146.png" tvg-country="HU" group-title=" Nem működik", COOL HD
-https://redirect.onlinestream.live/swredir.m3u8?s=552acd1e29b717b8763bd6949f11194c&id=870&ext=.m3u8
+blob:https://ittott.tv/eb7122df-aa04-492f-b73b-df304353d3ce
 
 #EXTINF:0 type="stream" channelId="1605" tvg-id="Film+ HD" tvg-logo="https://onlinestream.live/logos/6150.png" tvg-country="HU" group-title="HUN", Film+ HD
 http://play4you.icu/f9368cf8-9492-4836-b77c-7d8f073d8b8c
