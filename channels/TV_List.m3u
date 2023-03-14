@@ -1,87 +1,87 @@
 ﻿#EXTM3U
 
 #EXTINF:0 type="stream" channelId="4493" tvg-id="RTL Klub HD" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-name="RTL Klub HD"  group-title="HUN",RTL
-https://redirect.onlinestream.live/swredir.m3u8?s=4824c6cfb4e03fc429cff37c989446eb&amp;id=882&amp;ext=.m3u8
+http://play4you.icu/75884aff-bd1e-4c26-9bf2-783df9376b5a
 
 #EXTINF:0 type="stream" channelId="4717" tvg-id="RTL 2 HD" tvg-logo="https://onlinestream.live/logos/6142.png" tvg-country="HU" group-title="HUN", RTL 2 HD
 https://redirect.onlinestream.live/swredir.m3u8?s=552acd1e29b717b8763bd6949f11194c&id=883&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4494" tvg-id="RTL+" tvg-logo="https://onlinestream.live/logos/6147.png" tvg-country="HU" group-title="HUN", RTL+
+#EXTINF:0 type="stream" channelId="4494" tvg-id="RTL+" tvg-logo="https://onlinestream.live/logos/6147.png" tvg-country="HU" group-title=" Nem működik", RTL+
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=880&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4358" tvg-id="RTL Gold" tvg-logo="https://onlinestream.live/logos/6148.png" tvg-country="HU" group-title="HUN", RTL Gold
+#EXTINF:0 type="stream" channelId="4358" tvg-id="RTL Gold" tvg-logo="https://onlinestream.live/logos/6148.png" tvg-country="HU" group-title=" Nem működik", RTL Gold
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1131&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4704" tvg-id="TV2" tvg-logo="https://onlinestream.live/logos/6143.png" tvg-country="HU" group-title="HUN", TV2 HD
-https://redirect.onlinestream.live/swredir.m3u8?s=552acd1e29b717b8763bd6949f11194c&id=1141&ext=.m3u8
+#EXTINF:0 type="stream" channelId="4704" tvg-id="TV2" tvg-logo="https://onlinestream.live/logos/6143.png" tvg-country="HU" group-title=" Nem működik", TV2 HD
+http://play4you.icu/5d366e1d-403a-499a-8c6d-73a57d4b6388
 
-#EXTINF:0 type="stream" channelId="3949" tvg-id="COOL HD" tvg-logo="https://onlinestream.live/logos/6146.png" tvg-country="HU" group-title="HUN", COOL HD
+#EXTINF:0 type="stream" channelId="3949" tvg-id="COOL HD" tvg-logo="https://onlinestream.live/logos/6146.png" tvg-country="HU" group-title=" Nem működik", COOL HD
 https://redirect.onlinestream.live/swredir.m3u8?s=552acd1e29b717b8763bd6949f11194c&id=870&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="1605" tvg-id="Film+ HD" tvg-logo="https://onlinestream.live/logos/6150.png" tvg-country="HU" group-title="HUN", Film+ HD
-https://redirect.onlinestream.live/swredir.m3u8?s=552acd1e29b717b8763bd6949f11194c&id=1138&ext=.m3u8
+#EXTINF:0 type="stream" channelId="1605" tvg-id="Film+ HD" tvg-logo="https://onlinestream.live/logos/6150.png" tvg-country="HU" group-title=" Nem működik", Film+ HD
+http://play4you.icu/f9368cf8-9492-4836-b77c-7d8f073d8b8c
 
-#EXTINF:0 type="stream" channelId="4728" tvg-id="Mozi+ HD" tvg-logo="https://onlinestream.live/logos/6152.png" tvg-country="HU" group-title="HUN", Mozi+ HD
+#EXTINF:0 type="stream" channelId="4728" tvg-id="Mozi+ HD" tvg-logo="https://onlinestream.live/logos/6152.png" tvg-country="HU" group-title=" Nem működik", Mozi+ HD
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1171&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="1573" tvg-id="AXN HD" tvg-logo="https://onlinestream.live/logos/6235.png" tvg-country="HU" group-title="HUN", AXN HD
+#EXTINF:0 type="stream" channelId="1573" tvg-id="AXN HD" tvg-logo="https://onlinestream.live/logos/6235.png" tvg-country="HU" group-title=" Nem működik", AXN HD
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1147&ext=.m3u8
 
-#EXTINF:30 type="stream" channelId="4711" tvg-id="FEM3" tvg-logo="https://onlinestream.live/logos/6455.png" tvg-country="HU" group-title="HUN", FEM3
+#EXTINF:30 type="stream" channelId="4711" tvg-id="FEM3" tvg-logo="https://onlinestream.live/logos/6455.png" tvg-country="HU" group-title=" Nem működik", FEM3
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1180&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4710"tvg-id="Prime" tvg-logo="https://onlinestream.live/logos/6704.png" tvg-country="HU" group-title="HUN", Prime TV
+#EXTINF:0 type="stream" channelId="4710"tvg-id="Prime" tvg-logo="https://onlinestream.live/logos/6704.png" tvg-country="HU" group-title=" Nem működik", Prime TV
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1172&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="57" tvg-id="Discovery Channel" tvg-logo="https://onlinestream.live/logos/6768.png" audio-track="6" tvg-country="HU" group-title="HUN", Discovery Channel
+#EXTINF:0 type="stream" channelId="57" tvg-id="Discovery Channel" tvg-logo="https://onlinestream.live/logos/6768.png" audio-track="6" tvg-country="HU" group-title=" Nem működik", Discovery Channel
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1149&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="56" tvg-id="National Geographic HD" tvg-logo="https://onlinestream.live/logos/5937.png" audio-track="6" tvg-country="HU" group-title="HUN", National Geographic HD
+#EXTINF:0 type="stream" channelId="56" tvg-id="National Geographic HD" tvg-logo="https://onlinestream.live/logos/5937.png" audio-track="6" tvg-country="HU" group-title=" Nem működik", National Geographic HD
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1179&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="164" tvg-id="National Geographic Wild" tvg-logo="https://banner2.cleanpng.com/20180620/ivv/kisspng-national-geographic-society-nat-geo-wild-televisio-5b29e18d336f49.8263967215294713732107.jpg" audio-track="6" tvg-country="HU" group-title="HUN", National Geographic Wild
+#EXTINF:0 type="stream" channelId="164" tvg-id="National Geographic Wild" tvg-logo="https://banner2.cleanpng.com/20180620/ivv/kisspng-national-geographic-society-nat-geo-wild-televisio-5b29e18d336f49.8263967215294713732107.jpg" audio-track="6" tvg-country="HU" group-title=" Nem működik", National Geographic Wild
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=895&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="3024" tvg-id="Spektrum HD" tvg-logo="https://onlinestream.live/logos/6749.png" tvg-country="HU" group-title="HUN", Spektrum HD
+#EXTINF:0 type="stream" channelId="3024" tvg-id="Spektrum HD" tvg-logo="https://onlinestream.live/logos/6749.png" tvg-country="HU" group-title=" Nem működik", Spektrum HD
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1151&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="2935" tvg-id="Spektrum Home" tvg-logo="https://onlinestream.live/logos/6589.png" tvg-country="HU" group-title="HUN", Spektrum Home
+#EXTINF:0 type="stream" channelId="2935" tvg-id="Spektrum Home" tvg-logo="https://onlinestream.live/logos/6589.png" tvg-country="HU" group-title=" Nem működik", Spektrum Home
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1152&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4729" tvg-id="Sorozat +" tvg-logo="https://onlinestream.live/logos/6149.png" tvg-country="HU" group-title="HUN", Sorozat +
+#EXTINF:0 type="stream" channelId="4729" tvg-id="Sorozat +" tvg-logo="https://onlinestream.live/logos/6149.png" tvg-country="HU" group-title=" Nem működik", Sorozat +
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=876&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4705" tvg-id="Viasat3 HD" tvg-logo="https://onlinestream.live/logos/5911.png" tvg-country="HU" group-title="HUN", Viasat3 HD
+#EXTINF:0 type="stream" channelId="4705" tvg-id="Viasat3 HD" tvg-logo="https://onlinestream.live/logos/5911.png" tvg-country="HU" group-title=" Nem működik", Viasat3 HD
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1142&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="4709" tvg-id="Viasat6" tvg-logo="https://onlinestream.live/logos/6236.png" tvg-country="HU" group-title="HUN", Viasat6
+#EXTINF:0 type="stream" channelId="4709" tvg-id="Viasat6" tvg-logo="https://onlinestream.live/logos/6236.png" tvg-country="HU" group-title=" Nem működik", Viasat6
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1168&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="166" tvg-id="Viasat History SD" tvg-logo="https://onlinestream.live/logos/6745.png" tvg-country="HU" group-title="HUN", Viasat History SD
+#EXTINF:0 type="stream" channelId="166" tvg-id="Viasat History SD" tvg-logo="https://onlinestream.live/logos/6745.png" tvg-country="HU" group-title=" Nem működik", Viasat History SD
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1154&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="172" tvg-id="Viasat Nature" tvg-logo="https://onlinestream.live/logos/7073.png" tvg-country="HU" group-title="HUN", Viasat Nature
+#EXTINF:0 type="stream" channelId="172" tvg-id="Viasat Nature" tvg-logo="https://onlinestream.live/logos/7073.png" tvg-country="HU" group-title=" Nem működik", Viasat Nature
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1161&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="3357" tvg-id="TV4" tvg-logo="https://onlinestream.live/logos/6184.png" tvg-country="HU" group-title="HUN", TV4
+#EXTINF:0 type="stream" channelId="3357" tvg-id="TV4" tvg-logo="https://onlinestream.live/logos/6184.png" tvg-country="HU" group-title=" Nem működik", TV4
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1106&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="67" tvg-id="TLC" tvg-logo="https://onlinestream.live/logos/6751.png" audio-track="3" tvg-country="HU" group-title="HUN", TLC
+#EXTINF:0 type="stream" channelId="67" tvg-id="TLC" tvg-logo="https://onlinestream.live/logos/6751.png" audio-track="3" tvg-country="HU" group-title=" Nem működik", TLC
 https://hls25.sweet.tv/stream/c458k48qq9qqkjrfvk64mirnu3c8qyq8idwfrwzam3iwbmbgu7y2yhypjuva7fuc6sicpqnnqa9s35yqv7agdcz93w23esy3ss4gqwckt4icqgz2q7inkq6fv5idwah2tys9x44hh8yg9mvw.m3u8
 
-#EXTINF:0 type="stream" channelId="2936" tvg-id="TV Paprika" tvg-logo="https://onlinestream.live/logos/6748.png" tvg-country="HU" group-title="HUN", TV Paprika
+#EXTINF:0 type="stream" channelId="2936" tvg-id="TV Paprika" tvg-logo="https://onlinestream.live/logos/6748.png" tvg-country="HU" group-title=" Nem működik", TV Paprika
 https://redirect.onlinestream.live/swredir.m3u8?s=c3f9f6ac0b89e836ef16deeaa4fd5079&id=1112&ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="1244" tvg-id="Food Network" tvg-logo="https://onlinestream.live/logos/7570.png" tvg-country="HU" group-title="HUN", Food Network
+#EXTINF:0 type="stream" channelId="1244" tvg-id="Food Network" tvg-logo="https://onlinestream.live/logos/7570.png" tvg-country="HU" group-title=" Nem működik", Food Network
 https://hls25.sweet.tv/stream/mff96s5th8hjrh67kd93zu79ewjx9curvvk7buvhy3ewn6dhvnvmgr749uzazehi6w556gnmxsgvynccyec8ubzeh9xhqqs96hbw3264nkgqd2rcv3mpdb56smxzcnekwr5m8zve4mbjn3binw======.m3u8
 
-#EXTINF:0 type="stream" channelId="1508" tvg-id="Discovery Science" tvg-logo="https://onlinestream.live/logos/7326.png" tvg-country="HU" group-title="HUN", Discovery Science
+#EXTINF:0 type="stream" channelId="1508" tvg-id="Discovery Science" tvg-logo="https://onlinestream.live/logos/7326.png" tvg-country="HU" group-title=" Nem működik", Discovery Science
 http://91.237.170.202:11000/play/11352
 
-#EXTINF:0 type="stream" channelId="50" tvg-id="Animal Planet HD" tvg-logo="https://onlinestream.live/logos/7055.png" tvg-country="HU" group-title="HUN", Animal Planet HD
+#EXTINF:0 type="stream" channelId="50" tvg-id="Animal Planet HD" tvg-logo="https://onlinestream.live/logos/7055.png" tvg-country="HU" group-title=" Nem működik", Animal Planet HD
 http://91.237.170.202:11000/play/1354
 
-#EXTINF:0 type="stream" channelId="" tvg-id="TV2 Kids" tvg-logo="https://onlinestream.live/logos/6707.png" tvg-country="HU" group-title="HUN", TV2 Kids
+#EXTINF:0 type="stream" channelId="" tvg-id="TV2 Kids" tvg-logo="https://onlinestream.live/logos/6707.png" tvg-country="HU" group-title=" Nem működik", TV2 Kids
 https://hls25.sweet.tv/stream/amkbdai5j8n3j6xgk2y2iy38h4nnj62fytn94tuwtivyvway5vxp53vuaswkk6qhmnjj5tusgss4i3rjtm29py9swwsm4n6vbzuhudmwiaqrf5feb8e84dnmye6q4sk7csrmh4vdisgvrnhyp6======.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-id="Szolnok TV" tvg-logo="https://onlinestream.live/logos/4788.png" tvg-country="HU" group-title="HUN", Szolnok TV
