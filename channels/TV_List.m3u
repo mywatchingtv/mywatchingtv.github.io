@@ -134,3 +134,6 @@ http://stream.danubiusradio.hu/danubius_192k
 
 #EXTINF:-1 radio="true" channelId="-1" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/46965.v7.png" group-title="Rádió",Radio Deejay
 https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
+
+#EXTINF:-1 radio="true" channelId="-1" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/64621.v13.png" group-title="Rádió",RTL 102.5
+https://streamingv2.shoutcast.com/rtl-1025
