@@ -129,5 +129,8 @@ https://icast.connectmedia.hu/5201/live.mp3
 #EXTINF:-1 radio="true" channelId="-1" tvg-logo="https://onlinestream.live/logos/1702.png" group-title="Rádió",Petőfi Rádió
 https://icast.connectmedia.hu/4738/mr2.mp3
 
+#EXTINF:-1 radio="true" channelId="-1" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/46965.v7.png" group-title="Rádió",Radio Deejay
+https://onlineradiobox.com/it/deejay/?cs=it.deejay&played=1
+
 #EXTINF:-1 radio="true" channelId="-1" tvg-logo="https://onlinestream.live/logos/5986.png" group-title="Rádió",Danubius Rádió
 http://stream.danubiusradio.hu/danubius_192k
