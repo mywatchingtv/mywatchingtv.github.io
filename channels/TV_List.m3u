@@ -37,7 +37,7 @@ http://195.189.62.141:8000/play/a01l/index.m3u8
 http://194.76.186.33:8000/play/a01v/index.m3u8
 
 #EXTINF:0 type="stream" channelId="56" tvg-id="National Geographic HD" tvg-logo="https://onlinestream.live/logos/5937.png" audio-track="6" tvg-country="HU" group-title="HUN", National Geographic HD
-http://5.255.90.192:4002/play/a02s/index.m3u8
+http://194.76.186.33:8000/play/a02t/index.m3u8
 
 #EXTINF:0 type="stream" channelId="164" tvg-id="National Geographic Wild" tvg-logo="https://banner2.cleanpng.com/20180620/ivv/kisspng-national-geographic-society-nat-geo-wild-televisio-5b29e18d336f49.8263967215294713732107.jpg" audio-track="6" tvg-country="HU" group-title="HUN", National Geographic Wild
 http://194.76.186.33:8000/play/a03c/index.m3u8
