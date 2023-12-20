@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:0 type="stream" channelId="4493" tvg-id="RTL Klub HD" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-name="RTL Klub HD"  group-title="HUN",RTL
-http://194.76.186.33:8000/play/a01e/index.m3u8
+https://cdn.mediaklikk.org:443/rtl/zITMxEzNxAjM
 
 #EXTINF:0 type="stream" channelId="4717" tvg-id="RTL 2 HD" tvg-logo="https://onlinestream.live/logos/6142.png" tvg-country="HU" group-title="HUN", RTL 2 HD
 http://195.189.62.141:8000/play/a01m/index.m3u8
