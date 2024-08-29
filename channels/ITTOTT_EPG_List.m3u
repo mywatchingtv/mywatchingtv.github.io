@@ -168,7 +168,7 @@ https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
 #EXTINF:0 type="stream" channelId="1027" tvg-id="TV2 HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-tv2-hd.png" tvg-country="hu" group-title="Kereskedelmi", TV2 HD
 https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="1027" tvg-id="TV2 Comedy" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/tv2-comedy.png" tvg-country="hu" group-title="Szórekoztató", TV2 Comedy
+#EXTINF:0 type="stream" channelId="1027" tvg-id="TV2 Comedy" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/tv2-comedy.png" tvg-country="hu" group-title="Szórakoztató", TV2 Comedy
 https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="1027" tvg-id="TV2 Kids" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-Tv2Kids.png" tvg-country="hu" group-title="Gyerek", TV2 Kids
