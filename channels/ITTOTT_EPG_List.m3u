@@ -69,7 +69,7 @@ https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
 #EXTINF:0 type="stream" channelId="1027" tvg-id="Filmbox Basic" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo_filmbox.png" tvg-country="hu" group-title="Film", Filmbox Basic
 https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
 
-#EXTINF:0 type="stream" channelId="1027" tvg-id="FilmCafe" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/filmcaffe.png" tvg-country="hu" group-title="film", FilmCafe
+#EXTINF:0 type="stream" channelId="1027" tvg-id="FilmCafe" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/filmcaffe.png" tvg-country="hu" group-title="Film", FilmCafe
 https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="1027" tvg-id="Film Mania" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/filmmania.png" tvg-country="hu" group-title="Sorozat", Film Mania
