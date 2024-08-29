@@ -1,0 +1,199 @@
+﻿#EXTM3U
+
+#EXTINF:0 type="stream" channelId="4724" tvg-id="M1 HD" tvg-logo="https://onlinestream.live/logos/5901.png" tvg-country="hu" group-title="Közszolgálati", M1 HD
+https://c401-node61-cdn.connectmedia.hu/110101/048c42a33bfd7de86f03262a5a1b6243/66ce3246/index.m3u8
+
+#EXTINF:0 type="stream" channelId="4724" tvg-id="M2 / Petőfi HD" tvg-logo="https://onlinestream.live/logos/5902.png" tvg-country="hu" group-title="Közszolgálati", M2 / Petőfi HD
+https://c402-node61-cdn.connectmedia.hu/110102/3a2b347b74565b4f7857a3a9d49fc35c/66ce23ad/index.m3u8
+
+#EXTINF:0 type="stream" channelId="4724" tvg-id="M4 Sport HD" tvg-logo="https://onlinestream.live/logos/5903.png" tvg-country="hu" group-title="Sport", M4 Sport HD
+https://c201-node61-cdn.connectmedia.hu/150104/0f698d9eb1242e392c59aef4b6ddc4fc/66ce36c9/index.m3u8
+
+#EXTINF:0 type="stream" channelId="4724" tvg-id="M5 HD" tvg-logo="https://onlinestream.live/logos/5904.png" tvg-country="hu" group-title="Közszolgálati", M5 HD
+https://c401-node61-cdn.connectmedia.hu/110105/1df277e4268a936cf05f0de362c0618b/66ce378c/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Duna HD" tvg-logo="https://onlinestream.live/logos/5905.png" tvg-country="hu" group-title="Közszolgálati", Duna HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Duna World HD" tvg-logo="https://onlinestream.live/logos/5906.png" tvg-country="hu" group-title="Közszolgálati", Duna World HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="HírTV HD" tvg-logo="https://onlinestream.live/logos/4740.png" tvg-country="hu" group-title="Hírműsor", HirTV
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="ATV HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-atv-hd-b.png" tvg-country="hu" group-title="Hírműsor", ATV HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="ARENA4 HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/arena4.png" tvg-country="hu" group-title="Sport", ARENA4 HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="AMC HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-amc-hd.png" tvg-country="hu" group-title="Film", AMC HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="ATV Spirit" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/atvspirit.png" tvg-country="hu" group-title="Szórakoztató", ATV Spirit
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="AXN HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-axn-hd.png" tvg-country="hu" group-title="Szórakoztató", AXN HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Bonum TV" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/bonum2014.png" tvg-country="hu" group-title="Életmód", Bonum TV
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Boomerang" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/boomerang.png" tvg-country="hu" group-title="Gyerek", Boomerang
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Cartoon Network" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/cartoon-network.png" tvg-country="hu" group-title="Gyerek", Cartoon Network
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="CNN International" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/cnn.png" tvg-country="hu" group-title="Hírműsor", CNN International
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Comedy Central" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo_comedycentral.png" tvg-country="hu" group-title="Szórakoztató", Comedy Central
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Cool HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-cool-hd.png" tvg-country="hu" group-title="Film", Cool HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Disney Channel" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-Disney-2022.png" tvg-country="hu" group-title="Gyerek", Disney Channel
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Euronews" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/euronews-on.png" tvg-country="hu" group-title="Hírműsork", Euronews
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Film4" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo_film4.png" tvg-country="hu" group-title="Film", Film4
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Film+ HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-filmplusz-hd.png" tvg-country="hu" group-title="Film", Film+ HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Filmbox Basic" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo_filmbox.png" tvg-country="hu" group-title="Film", Filmbox Basic
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="FilmCafe" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/filmcaffe.png" tvg-country="hu" group-title="film", FilmCafe
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Film Mania" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/filmmania.png" tvg-country="hu" group-title="Sorozat", Film Mania
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Izaura TV" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/izaura.png" tvg-country="hu" group-title="Sorozat", Izaura TV
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Jim Jam" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/jimjam-logo.png" tvg-country="hu" group-title="Gyerek", Jim Jam
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Jocky TV" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/jocky-tv.png" tvg-country="hu" group-title="Sorozat", Jocky TV
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="LifeTv" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-lifetv.png" tvg-country="hu" group-title="Életmód", LifeTv
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Minimax" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/minimax-logo.png" tvg-country="hu" group-title="Gyerek", Minimax
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Mozi+ HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-moziplusz-hd.png" tvg-country="hu" group-title="Film", Mozi+ HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Moziverzum HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/moziverzum-logo.png" tvg-country="hu" group-title="Film", Moziverzum HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="MTV Hungary" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/MTV-European.png" tvg-country="hu" group-title="Zene", MTV Hungary
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Muzsika TV" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/muzsikatv.png" tvg-country="hu" group-title="Zene", Muzsika TV
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="National Geographic HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-national-geographic-hd.png" tvg-country="hu" group-title="Ismeretterjesztő", National Geographic HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="National Geographic Wild" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-natgeo-wild-hd.png" tvg-country="hu" group-title="Ismeretterjesztő", National Geographic Wild
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Nickelodeon" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/nickelodeon-on.png" tvg-country="hu" group-title="Gyerek", Nickelodeon
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Nick Jr" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/nickjr.png" tvg-country="hu" group-title="Gyerek", Nick Jr
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Nicktoons" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-nicktoons.png" tvg-country="hu" group-title="Gyerek", Nicktoons
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="OzoneTv" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/ozonetv.png" tvg-country="hu" group-title="Ismeretterjesztő", OzoneTv
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Paramount Channel HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-ParamountNetwork-2020dec17.png" tvg-country="hu" group-title="Film", Paramount Channel HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Prime TV" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/prime.png" tvg-country="hu" group-title="Sorozat", Prime TV
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="RTL Klub HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-rtl-2022.png" tvg-country="hu" group-title="Kereskedelmi", RTL Klub HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="RTL Gold" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-rtl-gold.png" tvg-country="hu" group-title="Kereskedelmi", RTL Gold
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="RTL 2 HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-rtl-ketto-hd.png" tvg-country="hu" group-title="Szórakoztató", RTL 2 HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Sláger TV" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-slagertv.png" tvg-country="hu" group-title="Zene", Sláger TV
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Sorozat +" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-Sorozat-Plusz.png" tvg-country="hu" group-title="Szórakoztató", Sorozat +
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Spektrum HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-spektrum-hd.png" tvg-country="hu" group-title="Ismeretterjesztő", Spektrum HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Spektrum Home" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/spektrum-home-logo.png" tvg-country="hu" group-title="Életmód", Spektrum Home
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Spíler1 HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-spiler1-hd.png" tvg-country="hu" group-title="Sport", Spíler1 HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Sport1 HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-sport1-hd.png" tvg-country="hu" group-title="Sport", Sport1 HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Sport2 HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-sport2-hd.png" tvg-country="hu" group-title="Sport", Sport2 HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Super TV2 HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo_supertv2.png" tvg-country="hu" group-title="Szórakoztató", Super TV2 HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Travel HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-travelchannel-hd.png" tvg-country="hu" group-title="Ismereterjesztő", Travel HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="TV Paprika" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/tvpaprika.jpg" tvg-country="hu" group-title="Életmód", TV Paprika
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="TV2 HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-tv2-hd.png" tvg-country="hu" group-title="Kereskedelmi", TV2 HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="TV2 Comedy" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/tv2-comedy.png" tvg-country="hu" group-title="Szórekoztató", TV2 Comedy
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="TV2 Kids" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-Tv2Kids.png" tvg-country="hu" group-title="Gyerek", TV2 Kids
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="TV2 Séf" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-tv2-sef.png" tvg-country="hu" group-title="Életmód", TV2 Séf
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="TV4" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo_tv4.png" tvg-country="hu" group-title="Szórakoztató", TV4
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Viasat3 HD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo-viasat3-hd.png" tvg-country="hu" group-title="Szórakoztató", Viasat3 HD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Viasat6" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/logo_viasat6.png" tvg-country="hu" group-title="Szórakoztató", Viasat6
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Viasat Explore" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/viasatexplore-on.png" tvg-country="hu" group-title="Ismereterjesztő", Viasat Explore
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Viasat History SD" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/viasathistory-on.png" tvg-country="hu" group-title="Ismereterjesztő", Viasat History SD
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Viasat Nature" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/viasatnature-on.png" tvg-country="hu" group-title="Ismereterjesztő", Viasat Nature
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:0 type="stream" channelId="1027" tvg-id="Zenebutik" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/zenebutik.png" tvg-country="hu" group-title="Zene", Zenebutik
+https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
