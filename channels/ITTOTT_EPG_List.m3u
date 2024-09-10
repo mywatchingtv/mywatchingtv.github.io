@@ -197,3 +197,27 @@ https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
 
 #EXTINF:0 type="stream" channelId="1027" tvg-id="Zenebutik" tvg-logo="https://ittott.tv/contentimages/82_65/userfiles/image/channelslogo/109x68/zenebutik.png" tvg-country="hu" group-title="Zene", Zenebutik
 https://redirect.onlinestream.live/apredir.m3u8?channel=duna&amp;ext=.m3u8
+
+#EXTINF:-1 radio="true" channelId="-1" tvg-logo="https://onlinestream.live/logos/6204.png" group-title="Rádió",Retro Rádio
+https://icast.connectmedia.hu/5001/live.mp3
+
+#EXTINF:-1 radio="true" channelId="-1" tvg-logo="https://onlinestream.live/logos/5626.png" group-title="Rádió",Rádió1
+https://icast.connectmedia.hu/5201/live.mp3
+
+#EXTINF:-1 radio="true" channelId="-1" tvg-logo="https://onlinestream.live/logos/1702.png" group-title="Rádió",Petőfi Rádió
+https://icast.connectmedia.hu/4738/mr2.mp3
+
+#EXTINF:-1 radio="true" channelId="-1" tvg-logo="https://onlinestream.live/logos/5986.png" group-title="Rádió",Danubius Rádió
+http://stream.danubiusradio.hu/danubius_192k
+
+#EXTINF:-1 radio="true" channelId="-1" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/46965.v7.png" group-title="Rádió",Radio Deejay
+https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
+
+#EXTINF:-1 radio="true" channelId="-1" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/64621.v13.png" group-title="Rádió",RTL 102.5
+https://streamingv2.shoutcast.com/rtl-1025
+
+#EXTINF:-1 radio="true" channelId="-1" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/12961.v6.png" group-title="Rádió",Radio Number One
+https://rn1.fluidstream.eu/rn1.aac?FLID=8&aw_0_req.gdpr=true&type=.aac
+
+#EXTINF:-1 radio="true" channelId="-1" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/11106.v8.png" group-title="Rádió",Radio RDS
+https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
